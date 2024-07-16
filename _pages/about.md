@@ -34,12 +34,11 @@ Algoirthm: Self-supervised speech processing
 
 # 🏫 Education
 
-- *2019.08 - 2023.08*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
-- *2018.08 - 2019.06*, M.Sc. in Electronic and Computer Engineer, National University of Singapore (NUS), Singapore.
-- *2014.09 - 2018.06*, B.Eng. in Electronic Engineer, Soochow University, Suzhou, China.
+- *2021.01 - 2023.12*, Ph.D. in Speech Processing, National University of Singapore (NUS), Singapore.
+- *2018.07 - 2019.06*, M.Sc. in Electronic and Computer Engineer, National University of Singapore (NUS), Singapore.
 
 # Working Experience
-- *2023.08 - Now*, Research Fellow, National University of Singapore (NUS), Singapore.
+- *2020.09 - Now*, Senior Research Engineer, Agency for Science, Technology and Research (A*STAR), Singapore.
 
 # 📝 Publication
 
