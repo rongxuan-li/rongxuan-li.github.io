@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tao Ruijie (陶睿杰)"
+title                    : "Liu Tianchi (柳天驰)"
 description              : "PhD student at National University of Singapore"
-repository               : "taoruijie.github.io"
+repository               : "TianchiLiu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tao Ruijie"
+  name             : "Liu Tianchi"
   avatar           : "images/my_pic.jpg"
   bio              : "[Curriculum Vitae]"
   location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.sg/citations?user=sdXITx8AAAAJ&hl=en"
-  email            : "ruijie.tao@u.nus.edu"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=1W24GsQAAAAJ&hl=en"
+  email            : "tianchi_liu@u.nus.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TaoRuijie"
+  github           : "TianchiLiu"
   google_plus      :
   keybase          :
   instagram        :
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://space.bilibili.com/194466325?spm_id_from=333.1007.0.0"
+  youtube          :
   wikipedia        :
 
 
