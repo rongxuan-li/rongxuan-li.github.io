@@ -43,7 +43,7 @@ Algoirthm: Self-supervised speech processing
 # 📝 Publication
 
 **2024**
-- [How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?](https://arxiv.org/pdf/2406.02483.pdf), Tianchi Liu, Lin Zhang, Rohan Kumar Das, Yi Ma, **Ruijie Tao**, Haizhou Li, **INTERSPEECH**, 2024.
+- [How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?](https://arxiv.org/pdf/2406.02483.pdf), **Tianchi Liu**, Lin Zhang, Rohan Kumar Das, Yi Ma, Ruijie Tao, Haizhou Li, **INTERSPEECH**, 2024.
 - Temporal-Channel Modeling in Multi-head Self-Attention for Synthetic Speech Detection, Duc-Tuan Truong, **Ruijie Tao**, Tuan Nguyen, Hieu-Thi Luong, Kong Aik Lee, Eng Siong Chng, **INTERSPEECH**, 2024.
 - [Emphasized Non-Target Speaker Knowledge in Knowledge Distillation for Automatic Speaker Verification](https://arxiv.org/pdf/2309.14838.pdf), Duc-Tuan Truong, **Ruijie Tao**, Jia Qi Yip, Kong Aik Lee, Eng Siong Chng, **ICASSP**, 2024.
 - [Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker Speech](https://arxiv.org/pdf/2309.08408.pdf), Junjie Li, **Ruijie Tao**, Zexu Pan, Meng Ge, Shuai Wang, Haizhou Li, **ICASSP**, 2024.
