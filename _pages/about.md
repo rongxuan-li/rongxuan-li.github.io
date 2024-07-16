@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-editing still on-going. Following is a template: 
+<font color="red">editing still in progress. Following is a template:</font>
 
 I am the Research Fellow in National University of Singapore (NUS), supervised by Prof. [Li Haizhou]([https://colips.org/~eleliha/](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en)). Prior to that, I received the PhD and Master Degree from NUS in 2023 and 2019, Bachelor Degree from Soochow University in 2018.
 
