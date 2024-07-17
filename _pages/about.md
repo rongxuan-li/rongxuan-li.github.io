@@ -43,37 +43,24 @@ Algoirthm: Self-supervised speech processing
 # 📝 Publication
 
 **2024**
-- [How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?](https://arxiv.org/pdf/2406.02483.pdf), **Tianchi Liu**, Lin Zhang, Rohan Kumar Das, Yi Ma, Ruijie Tao, Haizhou Li, **INTERSPEECH**, 2024.
-- Temporal-Channel Modeling in Multi-head Self-Attention for Synthetic Speech Detection, Duc-Tuan Truong, **Ruijie Tao**, Tuan Nguyen, Hieu-Thi Luong, Kong Aik Lee, Eng Siong Chng, **INTERSPEECH**, 2024.
-- [Emphasized Non-Target Speaker Knowledge in Knowledge Distillation for Automatic Speaker Verification](https://arxiv.org/pdf/2309.14838.pdf), Duc-Tuan Truong, **Ruijie Tao**, Jia Qi Yip, Kong Aik Lee, Eng Siong Chng, **ICASSP**, 2024.
-- [Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker Speech](https://arxiv.org/pdf/2309.08408.pdf), Junjie Li, **Ruijie Tao**, Zexu Pan, Meng Ge, Shuai Wang, Haizhou Li, **ICASSP**, 2024.
-- [Prompt-driven Target Speech Diarization](https://arxiv.org/pdf/2310.14823.pdf), Yidi Jiang, Zhengyang Chen, **Ruijie Tao**, Liqun Deng, Yanmin Qian and Haizhou Li, **ICASSP**, 2024.
-- [USED: Universal Speaker Extraction and Diarization](https://arxiv.org/pdf/2309.10674.pdf), Junyi Ao, Mehmet Sinan Yıldırım, Meng Ge, Shuai Wang, **Ruijie Tao**, Yanmin Qian, Liqun Deng, Longshuai Xiao, Haizhou Li, **Arxiv**, 2024.
+- **Tianchi Liu**, Lin Zhang, Rohan Kumar Das, Yi Ma, Ruijie Tao, Haizhou Li, *How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?*, **INTERSPEECH (oral)**, 2024. 🔗[[arXiv]](https://arxiv.org/abs/2406.02483)
+- Zihan Pan, **Tianchi Liu**, Hardik B. Sailor, Qiongqiong Wang, *Attentive Merging of Hidden Embeddings from Pre-trained Speech Model for Anti-spoofing Detection*, **INTERSPEECH (oral)**, 2024. 🔗[[arXiv]](https://arxiv.org/abs/2406.10283)
+- **Tianchi Liu**, Kong Aik Lee, Qiongqiong Wang, Haizhou Li,  *Golden Gemini is All You Need: Finding the Sweet Spots for Speaker Verification*, IEEE/ACM Transactions on Audio, Speech, and Language Processing **(TASLP)**, 2024. 🔗[\[IEEE Open Access](https://ieeexplore.ieee.org/abstract/document/10497864/), [arXiv\]](https://arxiv.org/abs/2312.03620)
+- Ruijie Tao, Zhan Shi, Yidi Jiang, **Tianchi Liu**, Haizhou Li, *Voice Conversion Augmentation for Speaker Recognition on Defective Datasets*, 2024. 🔗[[arXiv]](https://https://arxiv.org/abs/2404.00863)
 
 **2023**
-- [Deep Cross-modal Retrieval between Space Image and Acoustic Speech](https://ieeexplore.ieee.org/abstract/document/10285477), Xinyuan Qian, Wei Xue, Qiquan Zhang, **Ruijie Tao** and Haizhou Li, **TMM**, 2023.
-- [Bi-directional Image-Speech Retrieval Through Geometric Consistency](https://av4d.org/papers/iccv23/p2.pdf), Xinyuan Qian, Wei Xue, Qiquan Zhang, **Ruijie Tao**, Yiming Wang, Kainan Chen, Haizhou Li, **ICCV Workshop**, 2023.
-- [Target Active Speaker Detection with Audio-visual Cues](https://arxiv.org/pdf/2305.12831.pdf), Yidi Jiang, **Ruijie Tao**, Zexu Pan and Haizhou Li, **INTERSPEECH**, 2023. [![](https://img.shields.io/github/stars/Jiang-Yidi/TS-TalkNet?style=social&label=Code+Stars)](https://github.com/Jiang-Yidi/TS-TalkNet)
-- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://ieeexplore.ieee.org/document/10106039), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
-- [Speaker recognition with two-step multi-modal deep cleansing](https://arxiv.org/pdf/2210.15903.pdf), **Ruijie Tao**, Kong Aik Lee, Shi Zhan and Haizhou Li, **ICASSP**, 2023. [![](https://img.shields.io/github/stars/TaoRuijie/AVCleanse?style=social&label=Code+Stars)](https://github.com/TaoRuijie/AVCleanse)
+- **Tianchi Liu**, Kong Aik Lee, Qiongqiong Wang, Haizhou Li, *Disentangling Voice and Content with Self-Supervision for Speaker Recognition*, Advances in Neural Information Processing Systems (**NeurIPS**), 2023. 🔗[\[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9d276b0a087efdd2404f3295b26c24c1-Abstract-Conference.html), [arXiv\]](https://arxiv.org/abs/2310.01128)
+- Qiongqiong Wang, Kong Aik Lee, **Tianchi Liu**, *Incorporating Uncertainty from Speaker Embedding Estimation to Speaker Verification*, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023.  🔗[[arXiv]](https://av4d.org/papers/iccv23/p2.pdf)
 
 **2022**
-- [Self-supervised Speaker Recognition with Loss-gated Learning](https://arxiv.org/pdf/2110.03869.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li. **ICASSP**, 2022, [![](https://img.shields.io/github/stars/TaoRuijie/Loss-Gated-Learning?style=social&label=Code+Stars)](https://github.com/TaoRuijie/Loss-Gated-Learning)
-- [Selective Hearing through Lip-reading](https://arxiv.org/pdf/2106.07150.pdf), Zexu Pan, **Ruijie Tao**, Chenglin Xu, Haizhou Li, **TASLP**, 2022.
-- [Ego4D: Around the World in 3,000 Hours of Egocentric Video](https://arxiv.org/pdf/2110.07058.pdf), Kristen Grauman, Andrew Westbury, Eugene Byrne, ..., **Ruijie Tao**, ..., et al, **CVPR**, <font color="red">Oral, Best Paper Nominee</font>, 2022. [![](https://img.shields.io/github/stars/facebookresearch/Ego4d?style=social&label=Code+Stars)](https://github.com/facebookresearch/Ego4d)
+- **Tianchi Liu**, Rohan Kumar Das, Kong Aik Lee, Haizhou Li, *MFA: TDNN with multi-scale frequency-channel attention for text-independent speaker verification with short utterances*, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**) **oral**, 2022. 🔗[\[IEEE](https://ieeexplore.ieee.org/abstract/document/9747021/), [arXiv\]](https://arxiv.org/abs/2202.01624)
+- **Tianchi Liu**, Rohan Kumar Das, Kong Aik Lee, Haizhou Li, *Neural acoustic-phonetic approach for speaker verification with phonetic attention mask*, **IEEE Signal Processing Letters**, 2022. 🔗[[IEEE Open Access]](https://ieeexplore.ieee.org/abstract/document/9681187/)
+- Qiongqiong Wang, Kong Aik Lee, **Tianchi Liu**, *Scoring of Large-Margin Embeddings for Speaker Verification: Cosine or PLDA?*, **INTERSPEECH**, 2022. 🔗[[arXiv]](https://arxiv.org/abs/2204.03965)
 
-**2021**
+**2019 - 2020** 
 
-- [Is Someone Speaking? Exploring Long-term Temporal Features for Audio-visual Active Speaker Detection](https://arxiv.org/pdf/2107.06592.pdf), **Ruijie Tao**, Zexu Pan, Rohan Kumar Das, Xinyuan Qian, Mike Zheng Shou, Haizhou Li, **ACM Multimedia**, <font color="red">Oral</font>, 2021, [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=Code+Stars)](https://github.com/TaoRuijie/TalkNet_ASD)
-- [NUS-HLT Report for ActivityNet Challenge 2021 AVA (Speaker)](https://static.googleusercontent.com/media/research.google.com/zh-CN//ava/2021/S3_NUS_Report_AVA_ActiveSpeaker_2021.pdf), **Ruijie Tao**, Zexu Pan, Rohan Kumar Das, Xinyuan Qian, Mike Zheng Shou, Haizhou Li, **CVPR Workshop Report**, 2021.
-- [Muse: Multi-modal target speaker extraction with visual cues](https://arxiv.org/pdf/2010.07775.pdf), Zexu Pan, **Ruijie Tao**, Chenglin Xu, and Haizhou Li, **ICASSP**, 2021. 
-- [HLT-NUS Submission for 2020 NIST Conversational Telephone Speech SRE](https://arxiv.org/pdf/2111.06671.pdf), Rohan Kumar Das, **Ruijie Tao** and Haizhou Li, **Arxiv**, 2021. [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=Code+Stars)](https://github.com/TaoRuijie/ECAPATDNN)
-- [I4U System Description for NIST SRE'20 CTS Challenge](https://arxiv.org/pdf/2211.01091.pdf), Kong Aik Lee, Tomi Kinnunen, Daniele Colibro, ..., **Ruijie Tao**, ..., et al, **Arxiv**, 2021.
-
-**2020** 
-
-- [Audio-visual Speaker Recognition with a Cross-modal Discriminative Network](https://arxiv.org/abs/2008.03894), **Ruijie Tao**, Rohan Kumar Das and Haizhou Li, **INTERSPEECH**, 2020.
-- [HLT-NUS Submission for 2019 NIST Multimedia Speaker Recognition Evaluation](http://www.apsipa.org/proceedings/2020/pdfs/0000605.pdf), Rohan Kumar Das, **Ruijie Tao**, Jichen Yang, Wei Rao, Cheng Yu and Haizhou Li, **APSIPA**, 2020. 
+- **Tianchi Liu**, Rohan Kumar Das, Maulik Madhavi, Shengmei Shen, Haizhou Li, *Speaker-Utterance Dual Attention for Speaker and Utterance Verification*, **INTERSPEECH**, 2020. 🔗[\[ISCA](https://www.isca-archive.org/interspeech_2020/liu20u_interspeech.html), [arXiv\]](https://arxiv.org/abs/2008.08901)
+- **Tianchi Liu**, Maulik C Madhavi, Rohan Kumar Das, Haizhou Li, *A Unified Framework for Speaker and Utterance Verification*, **INTERSPEECH**, 2019. 🔗[[ISCA]](https://www.isca-archive.org/interspeech_2019/liu19m_interspeech.html)
 
 # 💻 Open Source Code
 - *Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=ECAPA-TDNN)](https://github.com/TaoRuijie/ECAPATDNN)
