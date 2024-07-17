@@ -50,12 +50,12 @@ Algoirthm: Self-supervised speech processing
 
 **2023**
 - **Tianchi Liu**, Kong Aik Lee, Qiongqiong Wang, Haizhou Li, *Disentangling Voice and Content with Self-Supervision for Speaker Recognition*, Advances in Neural Information Processing Systems (**NeurIPS**), 2023. 🔗[\[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9d276b0a087efdd2404f3295b26c24c1-Abstract-Conference.html), [arXiv\]](https://arxiv.org/abs/2310.01128)
-- Qiongqiong Wang, Kong Aik Lee, **Tianchi Liu**, *Incorporating Uncertainty from Speaker Embedding Estimation to Speaker Verification*, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023.  🔗[[arXiv]](https://av4d.org/papers/iccv23/p2.pdf)
+- Qiongqiong Wang, Kong Aik Lee, **Tianchi Liu**, *Incorporating Uncertainty from Speaker Embedding Estimation to Speaker Verification*, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023.  🔗[\[IEEE](https://ieeexplore.ieee.org/document/10097019/), [arXiv\]](https://arxiv.org/abs/2302.11763)
 
 **2022**
 - **Tianchi Liu**, Rohan Kumar Das, Kong Aik Lee, Haizhou Li, *MFA: TDNN with multi-scale frequency-channel attention for text-independent speaker verification with short utterances*, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**) **oral**, 2022. 🔗[\[IEEE](https://ieeexplore.ieee.org/abstract/document/9747021/), [arXiv\]](https://arxiv.org/abs/2202.01624)
 - **Tianchi Liu**, Rohan Kumar Das, Kong Aik Lee, Haizhou Li, *Neural acoustic-phonetic approach for speaker verification with phonetic attention mask*, **IEEE Signal Processing Letters**, 2022. 🔗[[IEEE Open Access]](https://ieeexplore.ieee.org/abstract/document/9681187/)
-- Qiongqiong Wang, Kong Aik Lee, **Tianchi Liu**, *Scoring of Large-Margin Embeddings for Speaker Verification: Cosine or PLDA?*, **INTERSPEECH**, 2022. 🔗[[arXiv]](https://arxiv.org/abs/2204.03965)
+- Qiongqiong Wang, Kong Aik Lee, **Tianchi Liu**, *Scoring of Large-Margin Embeddings for Speaker Verification: Cosine or PLDA?*, **INTERSPEECH**, 2022. 🔗[\[ISCA](https://www.isca-archive.org/interspeech_2022/wang22r_interspeech.html), [arXiv\]](https://arxiv.org/abs/2204.03965)
 
 **2019 - 2020** 
 
