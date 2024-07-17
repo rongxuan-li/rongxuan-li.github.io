@@ -54,7 +54,7 @@ Algoirthm: Self-supervised speech processing
 
 **2022**
 - **Tianchi Liu**, Rohan Kumar Das, Kong Aik Lee, Haizhou Li, *MFA: TDNN with multi-scale frequency-channel attention for text-independent speaker verification with short utterances*, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**) **oral**, 2022. 🔗[\[IEEE](https://ieeexplore.ieee.org/abstract/document/9747021/), [arXiv\]](https://arxiv.org/abs/2202.01624)
-- **Tianchi Liu**, Rohan Kumar Das, Kong Aik Lee, Haizhou Li, *Neural acoustic-phonetic approach for speaker verification with phonetic attention mask*, **IEEE Signal Processing Letters**, 2022. 🔗[[IEEE Open Access]](https://ieeexplore.ieee.org/abstract/document/9681187/)
+- **Tianchi Liu**, Rohan Kumar Das, Kong Aik Lee, Haizhou Li, *Neural acoustic-phonetic approach for speaker verification with phonetic attention mask*, IEEE Signal Processing Letters (**SPL**), 2022. 🔗[[IEEE Open Access]](https://ieeexplore.ieee.org/abstract/document/9681187/)
 - Qiongqiong Wang, Kong Aik Lee, **Tianchi Liu**, *Scoring of Large-Margin Embeddings for Speaker Verification: Cosine or PLDA?*, **INTERSPEECH (oral)**, 2022. 🔗[\[ISCA](https://www.isca-archive.org/interspeech_2022/wang22r_interspeech.html), [arXiv\]](https://arxiv.org/abs/2204.03965)
 
 **2019 - 2020** 
@@ -62,12 +62,8 @@ Algoirthm: Self-supervised speech processing
 - **Tianchi Liu**, Rohan Kumar Das, Maulik Madhavi, Shengmei Shen, Haizhou Li, *Speaker-Utterance Dual Attention for Speaker and Utterance Verification*, **INTERSPEECH**, 2020. 🔗[\[ISCA](https://www.isca-archive.org/interspeech_2020/liu20u_interspeech.html), [arXiv\]](https://arxiv.org/abs/2008.08901)
 - **Tianchi Liu**, Maulik C Madhavi, Rohan Kumar Das, Haizhou Li, *A Unified Framework for Speaker and Utterance Verification*, **INTERSPEECH**, 2019. 🔗[[ISCA]](https://www.isca-archive.org/interspeech_2019/liu19m_interspeech.html)
 
-# 💻 Open Source Code
-- *Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=ECAPA-TDNN)](https://github.com/TaoRuijie/ECAPATDNN)
-- *Active Speaker Detection Framework* [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=TalkNet-ASD)](https://github.com/TaoRuijie/TalkNet_ASD)
-- *Self-supervised Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/Loss-Gated-Learning?style=social&label=LGL)](https://github.com/TaoRuijie/Loss-Gated-Learning)
-- *Audio-visual Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/AVCleanse?style=social&label=AVCleanse)](https://github.com/TaoRuijie/AVCleanse)
-- *Ego4d Benchmark* [![](https://img.shields.io/github/stars/facebookresearch/Ego4d?style=social&label=Ego4d)](https://github.com/facebookresearch/Ego4d)
+# 💻 Open Source Contributions
+- *WeSpeaker* [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=ECAPA-TDNN)](https://github.com/wenet-e2e/wespeaker)
 
 # 🎖 Others
 
@@ -80,6 +76,6 @@ Algoirthm: Self-supervised speech processing
 
 **Reviewer**
 
-- The International Conference on Acoustics, Speech, and Signal Processing (ICASSP),
-- Signal Processing Letters (SPL),
+- IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),
+- IEEE Signal Processing Letters (SPL),
 - INTERSPEECH
