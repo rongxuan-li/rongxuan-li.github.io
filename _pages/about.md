@@ -46,7 +46,7 @@ Algoirthm: Self-supervised speech processing
 - **Tianchi Liu**, Lin Zhang, Rohan Kumar Das, Yi Ma, Ruijie Tao, Haizhou Li, *How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?*, **INTERSPEECH (oral)**, 2024. 🔗[[arXiv]](https://arxiv.org/abs/2406.02483)
 - Zihan Pan, **Tianchi Liu**, Hardik B. Sailor, Qiongqiong Wang, *Attentive Merging of Hidden Embeddings from Pre-trained Speech Model for Anti-spoofing Detection*, **INTERSPEECH (oral)**, 2024. 🔗[[arXiv]](https://arxiv.org/abs/2406.10283)
 - **Tianchi Liu**, Kong Aik Lee, Qiongqiong Wang, Haizhou Li,  *Golden Gemini is All You Need: Finding the Sweet Spots for Speaker Verification*, IEEE/ACM Transactions on Audio, Speech, and Language Processing **(TASLP)**, 2024. 🔗[\[IEEE Open Access](https://ieeexplore.ieee.org/abstract/document/10497864/), [arXiv\]](https://arxiv.org/abs/2312.03620)
-- Ruijie Tao, Zhan Shi, Yidi Jiang, **Tianchi Liu**, Haizhou Li, *Voice Conversion Augmentation for Speaker Recognition on Defective Datasets*, 2024. 🔗[[arXiv]](https://https://arxiv.org/abs/2404.00863)
+- Ruijie Tao, Zhan Shi, Yidi Jiang, **Tianchi Liu**, Haizhou Li, *Voice Conversion Augmentation for Speaker Recognition on Defective Datasets*, 2024. 🔗[[arXiv]](https://arxiv.org/abs/2404.00863)
 
 **2023**
 - **Tianchi Liu**, Kong Aik Lee, Qiongqiong Wang, Haizhou Li, *Disentangling Voice and Content with Self-Supervision for Speaker Recognition*, Advances in Neural Information Processing Systems (**NeurIPS**), 2023. 🔗[\[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9d276b0a087efdd2404f3295b26c24c1-Abstract-Conference.html), [arXiv\]](https://arxiv.org/abs/2310.01128)
@@ -69,35 +69,17 @@ Algoirthm: Self-supervised speech processing
 - *Audio-visual Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/AVCleanse?style=social&label=AVCleanse)](https://github.com/TaoRuijie/AVCleanse)
 - *Ego4d Benchmark* [![](https://img.shields.io/github/stars/facebookresearch/Ego4d?style=social&label=Ego4d)](https://github.com/facebookresearch/Ego4d)
 
-# 👔 Internship and Visiting Experience
-
-- *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
-- *2015.07 - 2015.08*, Visiting Student, University of Cambridge, Cambridge, UK.
-
 # 🎖 Others
 
 **Award**
 
-- Egocentric Vision (EgoVis) 2022/2023 Distinguished Paper Award, 2024
-- IEEE Spoken Language Processing Student Travel Grant (Corresponding author), 2024
 - Nanyang Speech Technology Forum, Best Student Paper Award, 2023
-- PREMIA, Best Student Paper Award, 2022
-- CVPR Best Paper Nominee, 2022
-- The 2nd place winner in NIST Speaker Recognition Evaluation (SRE), 2021
-- The 3rd place winner in the ActivityNet Challenge (Speaker), CVPR Workshop, 2021
+- The 5nd place winner in NIST Speaker Recognition Evaluation (SRE), 2021
+- The 4rd place winner in the ActivityNet Challenge (Speaker), CVPR Workshop, 2021
 - NUS Research Scholarship, 2019
 
 **Reviewer**
 
-- Computer Vision and Pattern Recognition Conference (CVPR),
-- Transactions on Audio, Speech, and Language Processing (TASLP),
-- The International Conference on Acoustics, Speech, & Signal Processing (ICASSP),
+- The International Conference on Acoustics, Speech, and Signal Processing (ICASSP),
 - Signal Processing Letters (SPL),
-- Digital Signal Processing (DSP),
-- Computer Speech & Language (CSL)
-
-**Teaching**
-
-- EE3801 Data Engineering Principles, NUS undergraduate course
-- EE5132 Wireless and Sensor Networks, NUS graduate course
-
+- INTERSPEECH
