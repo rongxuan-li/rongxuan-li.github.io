@@ -19,18 +19,17 @@ redirect_from:
 
 <font color="red">editing still in progress. Following is a template:</font>
 
-I am the Research Fellow in National University of Singapore (NUS), supervised by Prof. [Li Haizhou]([https://colips.org/~eleliha/](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en)). Prior to that, I received the PhD and Master Degree from NUS in 2023 and 2019, Bachelor Degree from Soochow University in 2018.
+I am the PhD Candidate in National University of Singapore (NUS), supervised by Prof. [Li Haizhou]([https://colips.org/~eleliha/](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en)). I am also the Senior Research Engineer in Agency for Science, Technology and Research (A*STAR), Singapore.
 
-My research interest Audio-visual speech processing, includes (audio-only or audio-visual) speaker recognition, speaker diarization, speech extraction, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences and journals such as NeurIPS, TASLP, ICASSP, INTERSPEECH. <a href="https://scholar.google.com/citations?hl=en&user=1W24GsQAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliu-tianchi%2Fliu-tianchi.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interests include speaker recognition, anti-spoofing, speech-LLM. I have published more than 10 papers at the top international AI conferences and journals such as NeurIPS, TASLP, ICASSP, INTERSPEECH. <a href="https://scholar.google.com/citations?hl=en&user=1W24GsQAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliu-tianchi%2Fliu-tianchi.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📜 Research Area
-Speech Processing: Speaker recognition, speaker diarization, target speaker extraction, anti-spoofing, speech separation, voice conversion, text-to-speech
 
-Computer Vision: Face recognition; face detection; lip reading
+**Speech Processing**: Speaker Recognition, Speech Foundation Model, Anti-spoofing, Target Speaker Extraction
 
-Multi-modal Processing: Audio-visual active speaker detection, AV speaker recognition, AV target speaker extraction, talking face generation
+**Multi-modal Processing**: Speech-LLM, Audio-visual Deception Detection
 
-Algoirthm: Self-supervised speech processing
+**Algoirthm**: Self-supervised Learning, Disentanglement Learning
 
 # 🏫 Education
 
@@ -38,7 +37,9 @@ Algoirthm: Self-supervised speech processing
 - *2018.07 - 2019.06*, M.Sc. in Electronic and Computer Engineer, National University of Singapore (NUS), Singapore.
 
 # Working Experience
-- *2020.09 - Now*, Senior Research Engineer, Agency for Science, Technology and Research (A*STAR), Singapore.
+
+- *2020.09 - Now*    , Senior Research Engineer, Agency for Science, Technology and Research (A*STAR), Singapore.
+- *2019.06 - 2020.08*, AI Scientist, PENSEES R&D Center, Singapore
 
 # 📝 Publication
 
@@ -63,19 +64,28 @@ Algoirthm: Self-supervised speech processing
 - **Tianchi Liu**, Maulik C Madhavi, Rohan Kumar Das, Haizhou Li, *A Unified Framework for Speaker and Utterance Verification*, **INTERSPEECH**, 2019. 🔗[\[ISCA](https://www.isca-archive.org/interspeech_2019/liu19m_interspeech.html), [code\]](https://github.com/Liu-Tianchi/SUV)
 
 # 💻 Open Source Contributions
-- *WeSpeaker* [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=ECAPA-TDNN)](https://github.com/wenet-e2e/wespeaker)
+
+- *WeSpeaker* [![](https://img.shields.io/github/stars/wenet-e2e/wespeaker?style=social&label=WeSpeaker)](https://github.com/wenet-e2e/wespeaker)
 
 # 🎖 Others
 
 **Award**
 
-- Nanyang Speech Technology Forum, Best Student Paper Award, 2023
-- The 5nd place winner in NIST Speaker Recognition Evaluation (SRE), 2021
-- The 4rd place winner in the ActivityNet Challenge (Speaker), CVPR Workshop, 2021
-- NUS Research Scholarship, 2019
+- The **4th** place winner out of 49 teams in the Controlled singing voice deepfake detection (CtrSVDD) Challenge 2024 @ IEEE SLT, 2024
+- **Best Paper Award** in 2023 International Doctoral Forum (CUHK & Microsoft), 2023
+- **Scholarship Award (Top Tier)**, Chinese and Oriental Languages Information Processing Society (COLIPS), 2023
+- The **5th** place winner out of 128 teams in in NIST Face Recognition Vendor Test (FRVT) - Face Mask Effects, 2020
+- **Outstanding Achievement Award** under the Research Domain, PENSEES Singapore, 2020
 
+**Academic Service**
+
+- Virtual Session Chiar @ IEEE IALP, 2023
+- Program Committee @ IEEE ISCSLP, 2022
+- Volunteer @ IEEE ICASSP, 2022
+  
 **Reviewer**
 
-- IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),
-- IEEE Signal Processing Letters (SPL),
+- IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+- IEEE Signal Processing Letters (SPL)
 - INTERSPEECH
+- IEEE Spoken Language Technology Workshop (SLT)
