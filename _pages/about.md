@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font color="red">editing still in progress. Following is a template:</font>
-
 I am the PhD Candidate in National University of Singapore (NUS), supervised by Prof. [Li Haizhou]([https://colips.org/~eleliha/](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en)). I am also the Senior Research Engineer in Agency for Science, Technology and Research (A*STAR), Singapore.
 
-My research interests include speaker recognition, anti-spoofing, speech-LLM. I have published more than 10 papers at the top international AI conferences and journals such as NeurIPS, TASLP, ICASSP, INTERSPEECH. <a href="https://scholar.google.com/citations?hl=en&user=1W24GsQAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliu-tianchi%2Fliu-tianchi.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interests include speaker recognition, anti-spoofing, speech-LLM. I have published more than 10 papers at the top international AI conferences and journals such as NeurIPS, TASLP, SPL, ICASSP, INTERSPEECH. <a href="https://scholar.google.com/citations?hl=en&user=1W24GsQAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliu-tianchi%2Fliu-tianchi.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📜 Research Area
 
@@ -34,7 +32,7 @@ My research interests include speaker recognition, anti-spoofing, speech-LLM. I 
 # 🏫 Education
 
 - *2021.01 - 2023.12*, Ph.D. in Speech Processing, National University of Singapore (NUS), Singapore.
-- *2018.07 - 2019.06*, M.Sc. in Electronic and Computer Engineer, National University of Singapore (NUS), Singapore.
+- *2018.07 - 2019.06*, M.Sc. in Electronic and Computer Engineering (Specialization in Computer Engineering), National University of Singapore (NUS), Singapore.
 
 # Working Experience
 
