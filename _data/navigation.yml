@@ -9,14 +9,14 @@ main:
   - title: "Education"
     url: "/#-education"
 
+  - title: "Work"
+    url: "/#-work-experience"
+
   - title: "Publication"
     url: "/#-publication"
     
   - title: "Code"
-    url: "/#-open-source-code"
-    
-  - title: "Internship"
-    url: "/#-internship-and-visiting-experience"
+    url: "/#-open-source-contributions"
 
   - title: "Others"
     url: "/#-others"
