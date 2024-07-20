@@ -21,7 +21,7 @@ I am the PhD Candidate in National University of Singapore (NUS), supervised by 
 
 My research interests include speaker recognition, anti-spoofing, speech-LLM. I have published more than 10 papers at the top international AI conferences and journals such as NeurIPS, TASLP, SPL, ICASSP, INTERSPEECH. <a href="https://scholar.google.com/citations?hl=en&user=1W24GsQAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliu-tianchi%2Fliu-tianchi.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-# 📜 Research Area
+# 🔍 Research Area
 
 **Speech Processing**: Speaker Recognition, Speech Foundation Model, Anti-spoofing, Target Speaker Extraction
 
@@ -29,17 +29,17 @@ My research interests include speaker recognition, anti-spoofing, speech-LLM. I 
 
 **Algoirthm**: Self-supervised Learning, Disentanglement Learning
 
-# 🏫 Education
+# 🧑‍🎓 Education
 
 - *2021.01 - 2023.12*, Ph.D. in Speech Processing, National University of Singapore (NUS), Singapore.
 - *2018.07 - 2019.06*, M.Sc. in Electronic and Computer Engineering (Specialization in Computer Engineering), National University of Singapore (NUS), Singapore.
 
-# Working Experience
+# 💼 Working Experience
 
 - *2020.09 - Now*    , Senior Research Engineer, Agency for Science, Technology and Research (A*STAR), Singapore.
 - *2019.06 - 2020.08*, AI Scientist, PENSEES R&D Center, Singapore
 
-# 📝 Publication
+# 📜 Publication
 
 **2024**
 - **Tianchi Liu**, Lin Zhang, Rohan Kumar Das, Yi Ma, Ruijie Tao, Haizhou Li, *How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?*, **INTERSPEECH (oral)**, 2024. 🔗[[arXiv]](https://arxiv.org/abs/2406.02483)
@@ -65,9 +65,9 @@ My research interests include speaker recognition, anti-spoofing, speech-LLM. I 
 
 - *WeSpeaker* [![](https://img.shields.io/github/stars/wenet-e2e/wespeaker?style=social&label=WeSpeaker)](https://github.com/wenet-e2e/wespeaker)
 
-# 🎖 Others
+# 🌟 Others
 
-**Award**
+🎖 **Award**
 
 - The **4th** place winner out of 49 teams in the Controlled singing voice deepfake detection (CtrSVDD) Challenge 2024 @ IEEE SLT, 2024
 - **Best Paper Award** in 2023 International Doctoral Forum (CUHK & Microsoft), 2023
@@ -75,13 +75,13 @@ My research interests include speaker recognition, anti-spoofing, speech-LLM. I 
 - The **5th** place winner out of 128 teams in in NIST Face Recognition Vendor Test (FRVT) - Face Mask Effects, 2020
 - **Outstanding Achievement Award** under the Research Domain, PENSEES Singapore, 2020
 
-**Academic Service**
+🏛️ **Academic Service**
 
 - Virtual Session Chiar @ IEEE IALP, 2023
 - Program Committee @ IEEE ISCSLP, 2022
 - Volunteer @ IEEE ICASSP, 2022
   
-**Reviewer**
+✅ **Reviewer**
 
 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 - IEEE Signal Processing Letters (SPL)
