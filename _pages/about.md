@@ -31,7 +31,7 @@ My research interests include speaker recognition, anti-spoofing, speech-LLM, et
 
 # 🎓 Education
 
-- *2021.01 - 2023.12*, Ph.D. in Speech Processing, National University of Singapore (NUS), Singapore.
+- *2021.01 - 2024.12*, Ph.D. in Speech Processing, National University of Singapore (NUS), Singapore.
 - *2018.07 - 2019.06*, M.Sc. in Electronic and Computer Engineering (Specialization in Computer Engineering), National University of Singapore (NUS), Singapore.
 
 # 💼 Work Experience
