@@ -88,3 +88,4 @@ My research interests include speaker recognition, anti-spoofing, speech-LLM, et
 - INTERSPEECH - *'23, '24*
 - IEEE Spoken Language Technology Workshop (SLT) - *'24*
 - IEEE ISCSLP - *'22*
+- ASVspoof5 - *'24*
