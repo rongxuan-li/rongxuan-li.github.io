@@ -43,6 +43,7 @@ My research interests include speaker recognition, anti-spoofing, speech-LLM, et
 
 **2024**
 - ⭐**Tianchi Liu**, Kong Aik Lee, Qiongqiong Wang, Haizhou Li, *Golden Gemini is All You Need: Finding the Sweet Spots for Speaker Verification*, IEEE/ACM Transactions on Audio, Speech, and Language Processing **(TASLP)**, 2024. 🔗[\[IEEE](https://ieeexplore.ieee.org/abstract/document/10497864/), [arXiv](https://arxiv.org/abs/2312.03620), [model](https://github.com/Liu-Tianchi/Golden-Gemini-for-Speaker-Verification), [code\]](https://github.com/wenet-e2e/wespeaker/tree/master/examples/voxceleb/v2)
+- **Tianchi Liu**,Ivan Kukanov, Zihan Pan, Qiongqiong Wang, Hardik Sailor, Kong Aik Lee, *Towards Quantifying and Reducing Language Mismatch Effects in Cross-lingual Speech Anti-Spoofing*, IEEE Spoken Language Technology Workshop **(SLT)**, 2024.
 - **Tianchi Liu**, Lin Zhang, Rohan Kumar Das, Yi Ma, Ruijie Tao, Haizhou Li, *How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?*, **INTERSPEECH, oral**, 2024. 🔗[[arXiv]](https://arxiv.org/abs/2406.02483)
 - Zihan Pan, **Tianchi Liu**, Hardik B. Sailor, Qiongqiong Wang, *Attentive Merging of Hidden Embeddings from Pre-trained Speech Model for Anti-spoofing Detection*, **INTERSPEECH, oral**, 2024. 🔗[[arXiv]](https://arxiv.org/abs/2406.10283)
 - Ruijie Tao, Zhan Shi, Yidi Jiang, **Tianchi Liu**, Haizhou Li, *Voice Conversion Augmentation for Speaker Recognition on Defective Datasets*, 2024. 🔗[[arXiv]](https://arxiv.org/abs/2404.00863)
