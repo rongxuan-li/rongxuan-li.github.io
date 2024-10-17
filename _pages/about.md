@@ -46,7 +46,7 @@ My research interests include speaker recognition, anti-spoofing, speech-LLM, et
 - **Tianchi Liu**, Lin Zhang, Rohan Kumar Das, Yi Ma, Ruijie Tao, Haizhou Li, *How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?*, **INTERSPEECH, oral**, 2024. 🔗[\[ISCA](https://www.isca-archive.org/interspeech_2024/liu24m_interspeech.html), [arXiv\]](https://arxiv.org/abs/2406.02483)
 - Zihan Pan, **Tianchi Liu**, Hardik B. Sailor, Qiongqiong Wang, *Attentive Merging of Hidden Embeddings from Pre-trained Speech Model for Anti-spoofing Detection*, **INTERSPEECH, oral**, 2024. 🔗[\[ISCA](https://www.isca-archive.org/interspeech_2024/pan24c_interspeech.html), [arXiv](https://arxiv.org/abs/2406.10283), [code\]](https://github.com/pandarialTJU/AttM_INTERSPEECH24)
 - **Tianchi Liu**, Ivan Kukanov, Zihan Pan, Qiongqiong Wang, Hardik Sailor, Kong Aik Lee, *Towards Quantifying and Reducing Language Mismatch Effects in Cross-lingual Speech Anti-Spoofing*, IEEE Spoken Language Technology Workshop **(SLT)**, 2024.🔗[\[IEEE](), [arXiv\]](https://arxiv.org/abs/2409.08346)
-- Anmol Guragain*，**Tianchi Liu***, Zihan Pan, Hardik Sailor, Qiongqiong Wang, *Speech Foundation Model Ensembles for the Controlled Singing Voice Deepfake Detection (CtrSVDD) Challenge 2024*, IEEE Spoken Language Technology Workshop **(SLT)**, (co-first author), 2024.🔗[\[IEEE](), [arXiv](https://arxiv.org/abs/2409.02302), [code\]](https://github.com/Anmol2059/SVDD2024)
+- Anmol Guragain*, **Tianchi Liu***, Zihan Pan, Hardik Sailor, Qiongqiong Wang, *Speech Foundation Model Ensembles for the Controlled Singing Voice Deepfake Detection (CtrSVDD) Challenge 2024*, IEEE Spoken Language Technology Workshop **(SLT)**, (co-first author), 2024.🔗[\[IEEE](), [arXiv](https://arxiv.org/abs/2409.02302), [code\]](https://github.com/Anmol2059/SVDD2024)
 - Ruijie Tao, Zhan Shi, Yidi Jiang, **Tianchi Liu**, Haizhou Li, *Voice Conversion Augmentation for Speaker Recognition on Defective Datasets*, 2024. 🔗[[arXiv]](https://arxiv.org/abs/2404.00863)
 
 **2023**
@@ -76,7 +76,7 @@ My research interests include speaker recognition, anti-spoofing, speech-LLM, et
 - The 🥉**3rd place winner** out of 49 teams in the Controlled Singing Voice Deepfake Detection (**CtrSVDD**) Challenge 2024 @ IEEE SLT, 2024
 - **Best Paper Award** in 2023 International Doctoral Forum (**CUHK** & **Microsoft**), 2023
 - **Travel Grant Award (Top Tier)**, Chinese and Oriental Languages Information Processing Society (**COLIPS**), 2023
-- The 🎖️**5th place winner** out of 128 teams in in **NIST** Face Recognition Vendor Test (**FRVT**) - Face Mask Effects, 2020
+- The 🎖️**5th place winner** out of 128 teams in **NIST** Face Recognition Vendor Test (**FRVT**) - Face Mask Effects, 2020
 - **Outstanding Achievement Award** under the Research Domain, PENSEES Singapore, 2020
 
 🏛️ **Academic Service**
