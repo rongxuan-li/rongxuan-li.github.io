@@ -47,6 +47,7 @@ My research interests include speaker recognition, anti-spoofing, speech-LLM, et
 - Zihan Pan, **Tianchi Liu**, Hardik B. Sailor, Qiongqiong Wang, *Attentive Merging of Hidden Embeddings from Pre-trained Speech Model for Anti-spoofing Detection*, **INTERSPEECH, oral**, 2024. 🔗[\[ISCA](https://www.isca-archive.org/interspeech_2024/pan24c_interspeech.html), [arXiv](https://arxiv.org/abs/2406.10283), [code\]](https://github.com/pandarialTJU/AttM_INTERSPEECH24)
 - **Tianchi Liu**, Ivan Kukanov, Zihan Pan, Qiongqiong Wang, Hardik Sailor, Kong Aik Lee, *Towards Quantifying and Reducing Language Mismatch Effects in Cross-lingual Speech Anti-Spoofing*, IEEE Spoken Language Technology Workshop **(SLT)**, 2024.🔗[\[IEEE](), [arXiv\]](https://arxiv.org/abs/2409.08346)
 - Anmol Guragain*, **Tianchi Liu***, Zihan Pan, Hardik Sailor, Qiongqiong Wang, *Speech Foundation Model Ensembles for the Controlled Singing Voice Deepfake Detection (CtrSVDD) Challenge 2024*, IEEE Spoken Language Technology Workshop **(SLT)**, (co-first author), 2024.🔗[\[IEEE](), [arXiv](https://arxiv.org/abs/2409.02302), [code\]](https://github.com/Anmol2059/SVDD2024)
+- Ke Zhang, Marvin Borsdorf, **Tianchi Liu**, Shuai Wang, Yangjie Wei, Haizhou Li, *Speaker extraction with verification of present and absent target speakers*, Journal of Shanghai Jiao Tong University (Science), 2024.
 - Ruijie Tao, Zhan Shi, Yidi Jiang, **Tianchi Liu**, Haizhou Li, *Voice Conversion Augmentation for Speaker Recognition on Defective Datasets*, 2024. 🔗[[arXiv]](https://arxiv.org/abs/2404.00863)
 
 **2023**
