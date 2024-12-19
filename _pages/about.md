@@ -94,6 +94,7 @@ My research interests include speaker recognition, anti-spoofing, speech-LLM, et
 - IEEE Signal Processing Letters (SPL) - *'23, '24*
 - IEEE International Conference on Acoustics, Speech and Signal Processing (IEEE ICASSP) - *'23~'25*
 - INTERSPEECH - *'23, '24*
+- International Joint Conference on Neural Networks (IJCNN) *'25*
 - IEEE Spoken Language Technology Workshop (SLT) - *'24*
 - IEEE ISCSLP - *'22*
 - ASVspoof5 - *'24*
