@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate at the National University of Singapore (NUS), supervised by Prof. [Li Haizhou]([https://colips.org/~eleliha/](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en)). I am also a Senior Research Engineer at the Agency for Science, Technology and Research (A*STAR), Singapore.
+I am a PhD candidate at the National University of Singapore (NUS), supervised by Prof. [Li Haizhou](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en) and Prof.[Mike Z. SHOU](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=en). I am also a Senior Research Engineer at the Agency for Science, Technology and Research (A*STAR), Singapore.
 
 My research interests include speaker recognition, anti-spoofing, speech-LLM, etc. I have published more than 10 papers in the top international AI conferences and journals such as NeurIPS, TASLP, SPL, ICASSP, INTERSPEECH. <a href="https://scholar.google.com/citations?hl=en&user=1W24GsQAAAAJ"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliu-tianchi%2Fliu-tianchi.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
