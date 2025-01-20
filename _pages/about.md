@@ -31,7 +31,7 @@ My research interests include speaker recognition, anti-spoofing, speech-LLM, et
 
 # 🎓 Education
 
-- *2021.01 - 2024.12*, Ph.D. in Speech Processing, National University of Singapore (NUS), Singapore.
+- *2021.01 - 2025.02*, Ph.D. in Speech Processing, National University of Singapore (NUS), Singapore.
 - *2018.07 - 2019.06*, M.Sc. in Electronic and Computer Engineering (Specialization in Computer Engineering), National University of Singapore (NUS), Singapore.
 
 # 💼 Work Experience
@@ -46,7 +46,7 @@ My research interests include speaker recognition, anti-spoofing, speech-LLM, et
 
 **2024**
 - ⭐ [<span style="background: linear-gradient(to right, #c9e5ee, #FFEFD5); color:black; font-weight:bold; padding:2px 5px;">🌊MERaLiON🦁</span>] Muhammad Huzaifah\*, Geyu Lin\*, **Tianchi Liu**\*, Hardik B. Sailor\*, Kye Min Tan\*, Tarun K. Vangani\*, Qiongqiong Wang\*, Jeremy H. M. Wong\*, Nancy F. Chen, Ai Ti Aw (MERaLiON Team), *MERaLiON-SpeechEncoder: Towards a Speech Foundation Model for Singapore and Beyond*, 2024. 🔗[\[arXiv](https://arxiv.org/abs/2412.11538), [🤗Hugging Face\]](https://huggingface.co/MERaLiON)
-- ⭐**Tianchi Liu**, Kong Aik Lee, Qiongqiong Wang, Haizhou Li, *Golden Gemini is All You Need: Finding the Sweet Spots for Speaker Verification*, IEEE/ACM Transactions on Audio, Speech, and Language Processing (**IEEE TASLP**), 2024. 🔗[\[IEEE](https://ieeexplore.ieee.org/abstract/document/10497864/), [arXiv](https://arxiv.org/abs/2312.03620), [model](https://github.com/Liu-Tianchi/Golden-Gemini-for-Speaker-Verification), [code](https://github.com/wenet-e2e/wespeaker/tree/master/examples/voxceleb/v2), [ONNX\]](https://github.com/wenet-e2e/wespeaker/blob/master/docs/pretrained.md)
+- ⭐**Tianchi Liu**, Kong Aik Lee, Qiongqiong Wang, Haizhou Li, *Golden Gemini is All You Need: Finding the Sweet Spots for Speaker Verification*, IEEE/ACM Transactions on Audio, Speech, and Language Processing (**IEEE TASLP**), 2024. 🔗[\[IEEE](https://ieeexplore.ieee.org/abstract/document/10497864/), [arXiv](https://arxiv.org/abs/2312.03620), [pre-trained models & simple inference](https://github.com/Liu-Tianchi/Golden-Gemini-for-Speaker-Verification), [train & test code](https://github.com/wenet-e2e/wespeaker/tree/master/examples/voxceleb/v2), [ONNX\]](https://github.com/wenet-e2e/wespeaker/blob/master/docs/pretrained.md)
 - **Tianchi Liu**, Lin Zhang, Rohan Kumar Das, Yi Ma, Ruijie Tao, Haizhou Li, *How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?*, **INTERSPEECH, oral**, 2024. 🔗[\[ISCA](https://www.isca-archive.org/interspeech_2024/liu24m_interspeech.html), [arXiv\]](https://arxiv.org/abs/2406.02483)
 - Zihan Pan, **Tianchi Liu**, Hardik B. Sailor, Qiongqiong Wang, *Attentive Merging of Hidden Embeddings from Pre-trained Speech Model for Anti-spoofing Detection*, **INTERSPEECH, oral**, 2024. 🔗[\[ISCA](https://www.isca-archive.org/interspeech_2024/pan24c_interspeech.html), [arXiv](https://arxiv.org/abs/2406.10283), [code\]](https://github.com/pandarialTJU/AttM_INTERSPEECH24)
 - **Tianchi Liu**, Ivan Kukanov, Zihan Pan, Qiongqiong Wang, Hardik Sailor, Kong Aik Lee, *Towards Quantifying and Reducing Language Mismatch Effects in Cross-lingual Speech Anti-Spoofing*, IEEE Spoken Language Technology Workshop (**IEEE SLT**), 2024.🔗[\[IEEE](), [arXiv\]](https://arxiv.org/abs/2409.08346)
