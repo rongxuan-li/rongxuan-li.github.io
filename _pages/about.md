@@ -72,7 +72,7 @@ My research interests include speaker recognition, anti-spoofing, speech-LLM, et
 
 - *WeSpeaker* [![](https://img.shields.io/github/stars/wenet-e2e/wespeaker?style=social&label=WeSpeaker)](https://github.com/wenet-e2e/wespeaker)
 - *AudioLLM* [![](https://img.shields.io/github/stars/AudioLLMs/AudioLLM?style=social&label=AudioLLM)](https://github.com/AudioLLMs/AudioLLM)
-
+- *MERaLiON* [\[🤗Hugging Face\]](https://huggingface.co/MERaLiON)
 
 # 🌟 Others
 
