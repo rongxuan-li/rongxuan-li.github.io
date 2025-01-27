@@ -43,6 +43,7 @@ My research interests include speaker recognition, anti-spoofing, speech-LLM, et
 
 **2025**
 - Yi Ma, Shuai Wang, **Tianchi Liu**, Haizhou Li, *ExPO: Explainable Phonetic Trait-Oriented Network for Speaker Verification*, IEEE Signal Processing Letters (**IEEE SPL**), 2025. 🔗[\[IEEE](https://ieeexplore.ieee.org/document/10845144), [arXiv](https://arxiv.org/abs/2501.05729), [code\]](https://github.com/mmmmayi/ExPO)
+- Ke Zhang, Marvin Borsdorf, **Tianchi Liu**, Shuai Wang, Yangjie Wei, Haizhou Li, *Speaker Extraction with Verification of Present and Absent Target Speakers*, Journal of Shanghai Jiaotong University (Science), 2025. 🔗[\[Link](https://link.springer.com/article/10.1007/s12204-025-2798-4)\]
 
 **2024**
 - ⭐ [<span style="background: linear-gradient(to right, #c9e5ee, #FFEFD5); color:black; font-weight:bold; padding:2px 5px;">🌊MERaLiON🦁</span>] Muhammad Huzaifah\*, Geyu Lin\*, **Tianchi Liu**\*, Hardik B. Sailor\*, Kye Min Tan\*, Tarun K. Vangani\*, Qiongqiong Wang\*, Jeremy H. M. Wong\*, Nancy F. Chen, Ai Ti Aw (MERaLiON Team), *MERaLiON-SpeechEncoder: Towards a Speech Foundation Model for Singapore and Beyond*, 2024. 🔗[\[arXiv](https://arxiv.org/abs/2412.11538), [🤗Hugging Face\]](https://huggingface.co/MERaLiON)
