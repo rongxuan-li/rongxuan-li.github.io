@@ -38,8 +38,5 @@ My research interests include continuous optimization and mathematics of materia
 - *2021.09 - 2025.07*, BSc in Mathematics, The Chinese University of Hong Kong. 
 
 
-# Invited Talks
-
-
 # Internships
 - *2022.07 - 2022.08*, Date Analyst, Deptartment of Inclusive Finance, Bank of China (Head Office).
