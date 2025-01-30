@@ -1,2 +1,15 @@
 # main links links
+  - title: "About Me"
+    url: "/#about-me"
 
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Internships"
+    url: "/#-internships"
