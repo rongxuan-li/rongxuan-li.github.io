@@ -21,25 +21,25 @@ I am a final-year undergraduate mathematics major at The Chinese University of H
 
 My research interests include continuous optimization and mathematics of materials.
 
-# 🔥 News
+# News
 
 
-# 📝 Publications and Projects
+# Publications and Projects
 
 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2023* Yasumoto International Exchange Scholarship. 
 - *2023* Mr. Akihiro Nagahara Student Exchange Scholarship.
 - *2022* Head’s List, New Asia College, CUHK. 
 - *2022* Mr. Michael Wong Student Exchange Scholarship. 
 
-# 📖 Educations
+# Educations
 - *2021.09 - 2025.07*, BSc in Mathematics, The Chinese University of Hong Kong. 
 
 
-# 💬 Invited Talks
+# Invited Talks
 
 
-# 💻 Internships
+# Internships
 - *2022.07 - 2022.08*, Date Analyst, Deptartment of Inclusive Finance, Bank of China (Head Office).
