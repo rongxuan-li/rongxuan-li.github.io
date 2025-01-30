@@ -21,8 +21,6 @@ I am a final-year undergraduate mathematics major at the Chinese University of H
 
 My research interests include continuous optimization and mathematics of materials.
 
-# News
-
 
 # Publications
 **On Going Manuscript**
