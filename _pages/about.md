@@ -24,7 +24,7 @@ My research interest includes continuous optimization and mathematics of materia
 # 🔥 News
 
 
-# 📝 Publication and Project
+# 📝 Publications and Projects
 
 
 
