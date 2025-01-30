@@ -31,11 +31,13 @@ My research interest includes...
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023* Yasumoto International Exchange Scholarship. 
+- *2023* Mr. Akihiro Nagahara Student Exchange Scholarship.
+- *2022* New Asia College, CUHK. 
+- *2022* Mr. Michael Wong Student Exchange Scholarship. 
 
 # 📖 Educations
-- *2021.09 - 2025.07 (expected)*, BSc in Mathematics, The Chinese University of Hong Kong. 
+- *2021.09 - 2025.07*, BSc in Mathematics, The Chinese University of Hong Kong. 
 
 
 # 💬 Invited Talks
