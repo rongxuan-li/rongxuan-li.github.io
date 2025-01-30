@@ -19,7 +19,7 @@ redirect_from:
 
 I am a final-year undergraduate mathematics major at The Chinese University of Hong Kong (CUHK). I previously studied as an exchange student at the University of California, Berkeley (UC Berkeley) and Rensselaer Polytechnic Institute (RPI). I feel blessed to be supervised by Prof. [Gary Pui Tung Choi](https://www.math.cuhk.edu.hk/~ptchoi/index.html) at CUHK and Prof. [Yangyang Xu](https://xu-yangyang.github.io/index.html) at RPI.
 
-My research interest includes continuous optimization and mathematics of materials.
+My research interests include continuous optimization and mathematics of materials.
 
 # 🔥 News
 
