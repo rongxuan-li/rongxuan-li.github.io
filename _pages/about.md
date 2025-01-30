@@ -31,7 +31,7 @@ My research interest includes continuous optimization and mathematics of materia
 # 🎖 Honors and Awards
 - *2023* Yasumoto International Exchange Scholarship. 
 - *2023* Mr. Akihiro Nagahara Student Exchange Scholarship.
-- *2022* New Asia College, CUHK. 
+- *2022* Head’s List, New Asia College, CUHK. 
 - *2022* Mr. Michael Wong Student Exchange Scholarship. 
 
 # 📖 Educations
