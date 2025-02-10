@@ -42,4 +42,4 @@ My research interests include continuous optimization and mathematics of materia
 
 
 # Internships
-- *2022.07 - 2022.08*, Data Analyst, Deptartment of Inclusive Finance, Bank of China (Head Office).
+- *2022.07 - 2022.08*, Data Analyst, Department of Inclusive Finance, Bank of China (Head Office).
