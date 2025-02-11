@@ -24,7 +24,7 @@ My research interests include continuous optimization and mathematics of materia
 
 # Publications
 **On Going Manuscript**
-- Senior Student: **Rongxuan Li**, Supervisor: Yangyang Xu, Linear Reweighted Regularization Algorithms for Graph Matching Problem, Senior Thesis. [\[Manuscript\]](https://drive.google.com/file/d/1xFOL79-lh3RpON3MvDQW21uvSyuHcqrN/view?usp=sharing)
+- Senior Student: **Rongxuan Li**, Supervisor: Yangyang Xu, Linear Reweighted Regularization Algorithms for Graph Matching Problem, Senior Thesis. [\[Manuscript](https://drive.google.com/file/d/1xFOL79-lh3RpON3MvDQW21uvSyuHcqrN/view?usp=sharing), [code\]](https://github.com/rongxuan-li/graph-match)
 
 **Preprint**
 - **Rongxuan Li** and Gary P. T. Choi, Explosive rigidity percolation in origami. [\[arXiv](https://arxiv.org/abs/2410.13945), [code\]](https://github.com/garyptchoi/origami-explosive-percolation/blob/main/README.md)
