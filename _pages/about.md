@@ -27,7 +27,7 @@ My research interests include continuous optimization and mathematics of materia
 **Preprint**
 - **Rongxuan Li** and Gary P. T. Choi, Explosive rigidity percolation in origami. Submitted. [\[arXiv](https://arxiv.org/abs/2410.13945), [code\]](https://github.com/garyptchoi/origami-explosive-percolation/blob/main/README.md)
 
--  **Rongxuan Li** and Yangyang Xu (Project Advisor), Linear Reweighted Regularization Algorithms for Graph Matching Problem. Submitted. [\[Manuscript](https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-globalnav-goto), [code\]](https://github.com/rongxuan-li/graph-match)
+-  **Rongxuan Li** and Yangyang Xu (Project Advisor), Linear Reweighted Regularization Algorithms for Graph Matching Problem. Submitted. [\[Manuscript](https://drive.google.com/file/d/1HrkXWoovIWuDox1FPsaC8OFHVWp2aIcv/view?usp=drive_link), [code\]](https://github.com/rongxuan-li/graph-match)
 
 
 
