@@ -21,14 +21,15 @@ I am a final-year undergraduate mathematics major at the Chinese University of H
 
 My research interests include continuous optimization and mathematics of materials.
 
+# News
+My first research paper is accept by Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. Thanks to Prof. Gary Choi's patient guidance.[code\]](https://github.com/garyptchoi/origami-explosive-percolation/blob/main/README.md)
 
 # Publications
 
 **Preprint**
-- **Rongxuan Li** and Gary P. T. Choi, Explosive rigidity percolation in origami. Submitted. [\[arXiv](https://arxiv.org/abs/2410.13945), [code\]](https://github.com/garyptchoi/origami-explosive-percolation/blob/main/README.md)
+- **Rongxuan Li** and Gary P. T. Choi, Explosive rigidity percolation in origami. To Appear, Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. [\[arXiv](https://arxiv.org/abs/2410.13945), [code\]](https://github.com/garyptchoi/origami-explosive-percolation/blob/main/README.md)
 
 -  **Rongxuan Li** and Yangyang Xu (Project Advisor), Linear Reweighted Regularization Algorithms for Graph Matching Problem. Submitted. [\[arXiv](https://arxiv.org/abs/2503.24329), [code\]](https://github.com/rongxuan-li/graph-match)
-
 
 
 
