@@ -22,7 +22,7 @@ I am a final-year undergraduate mathematics major at the Chinese University of H
 My research interests include continuous optimization and mathematics of materials.
 
 # News
-My first research paper is accept by Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. Thanks to Prof. Gary Choi's patient guidance.[code\]](https://github.com/garyptchoi/origami-explosive-percolation/blob/main/README.md)
+My first research paper is accept by [\[Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences.](https://royalsocietypublishing.org/journal/rspa) Thanks to Prof. Gary Choi's patient guidance.
 
 # Publications
 
