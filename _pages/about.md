@@ -24,7 +24,7 @@ My research interests include continuous optimization and mathematics of materia
 # News
 My first research paper is accept by [Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences.](https://royalsocietypublishing.org/journal/rspa) Thanks to Professor Gary Choi's patient guidance.
 
-![Origami Simulation](images/origami.pdf)
+![Origami Simulation](image/origami.pdf)
 
 # Publications
 
