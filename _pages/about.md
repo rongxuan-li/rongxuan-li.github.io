@@ -43,7 +43,7 @@ My first research paper is accept by [Proceedings of the Royal Society A: Mathem
 # Preprint
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
-  <img src="/images/graphmatch.pdf" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
+  <img src="/images/graphmatch.pdf" alt="Graph Match" style="width: 120px; margin-right: 20px; border-radius: 8px;">
   <div>
     <strong>Rongxuan Li</strong> and <strong>Yangyang Xu</strong> (Project Advisor), 
     <em>Linear Reweighted Regularization Algorithms for the Graph Matching Problem.</em> Submitted.  
