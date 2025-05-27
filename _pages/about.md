@@ -22,7 +22,9 @@ I am a final-year undergraduate mathematics major at the Chinese University of H
 My research interests include continuous optimization and mathematics of materials.
 
 # News
-My first research paper is accept by [Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences.](https://royalsocietypublishing.org/journal/rspa) Thanks to Professor Gary Choi's patient guidance.
+My first research paper is accept by [Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences.]\(https://royalsocietypublishing.org/journal/rspa) Thanks to Professor Gary Choi's patient guidance.
+
+![Origami Simulation](assets/images/origami.png)
 
 # Publications
 
@@ -40,7 +42,8 @@ My first research paper is accept by [Proceedings of the Royal Society A: Mathem
 - *2022* Mr. Michael Wong Student Exchange Scholarship. 
 
 # Educations
-- *2021.09 - 2025.07*, BSc in Mathematics, The Chinese University of Hong Kong. 
+- *2021.09 - 2025.07*, BSc in Mathematics, The Chinese University of Hong Kong.
+  
 
 
 # Internships
