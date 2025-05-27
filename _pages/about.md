@@ -21,10 +21,18 @@ I am a final-year undergraduate mathematics major at the Chinese University of H
 
 My research interests include continuous optimization and mathematics of materials.
 
-# News
-My first research paper is accept by [Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences.](https://royalsocietypublishing.org/journal/rspa) Thanks to Professor Gary Choi's patient guidance.
 
-![Origami](origami.pdf)
+
+# News
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <img src="origami.pdf" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
+  <div>
+    My first research paper is accepted by <a href="https://royalsocietypublishing.org/journal/rspa" target="_blank">Proceedings of the Royal Society A</a>.  
+    Thanks to Professor Gary Choi's patient guidance.
+  </div>
+</div>
+
 
 
 
