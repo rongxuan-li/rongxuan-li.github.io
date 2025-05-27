@@ -25,13 +25,8 @@ My research interests include continuous optimization and mathematics of materia
 
 # News
 
-<div style="display: flex; align-items: center; margin-bottom: 1em;">
-  <img src="/images/origami.pdf" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
-  <div>
-    My first research paper is accepted by <a href="https://royalsocietypublishing.org/journal/rspa" target="_blank">Proceedings of the Royal Society A</a>.  
-    Thanks to Professor Gary Choi's patient guidance.
-  </div>
-</div>
+My first research paper is accept by [Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences.](https://royalsocietypublishing.org/journal/rspa) Thanks to Professor Gary Choi's patient guidance.
+
 
 
 
@@ -45,13 +40,13 @@ My research interests include continuous optimization and mathematics of materia
 
 **Journal**
 
-
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
-  <img src="/images/origami.pdf" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
+  <img src="/assets/images/origami.pdf" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
   <div>
-**Rongxuan Li** and Gary P. T. Choi, Explosive rigidity percolation in origami. To Appear, Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. [\[arXiv](https://arxiv.org/abs/2410.13945), [code\]](https://github.com/garyptchoi/origami-explosive-percolation/blob/main/README.md)
+    <strong>Rongxuan Li</strong> and Gary P. T. Choi, <em>Explosive rigidity percolation in origami.</em> To appear, <i>Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences</i>. [<a href="https://arxiv.org/abs/2410.13945">arXiv</a>] [<a href="https://github.com/garyptchoi/origami-explosive-percolation/blob/main/README.md">code</a>]
   </div>
 </div>
+
 
 
 
