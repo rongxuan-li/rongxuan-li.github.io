@@ -41,7 +41,7 @@ My first research paper is accept by [Proceedings of the Royal Society A: Mathem
 **Journal**
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
-  <img src="/assets/images/origami.pdf" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
+  <img src="/images/origami.pdf" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
   <div>
     <strong>Rongxuan Li</strong> and Gary P. T. Choi, <em>Explosive rigidity percolation in origami.</em> To appear, <i>Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences</i>. [<a href="https://arxiv.org/abs/2410.13945">arXiv</a>] [<a href="https://github.com/garyptchoi/origami-explosive-percolation/blob/main/README.md">code</a>]
   </div>
