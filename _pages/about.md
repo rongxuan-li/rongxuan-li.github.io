@@ -30,15 +30,7 @@ My first research paper is accept by [Proceedings of the Royal Society A: Mathem
 
 
 
-
-
 # Publications
-
-**Preprint**
-
--  **Rongxuan Li** and Yangyang Xu (Project Advisor), Linear Reweighted Regularization Algorithms for Graph Matching Problem. Submitted. [\[arXiv](https://arxiv.org/abs/2503.24329), [code\]](https://github.com/rongxuan-li/graph-match)
-
-**Journal**
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <img src="/images/origami.pdf" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
@@ -46,6 +38,20 @@ My first research paper is accept by [Proceedings of the Royal Society A: Mathem
     <strong>Rongxuan Li</strong> and Gary P. T. Choi, <em>Explosive rigidity percolation in origami.</em> To appear, <i>Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences</i>. [<a href="https://arxiv.org/abs/2410.13945">arXiv</a>] [<a href="https://github.com/garyptchoi/origami-explosive-percolation/blob/main/README.md">code</a>]
   </div>
 </div>
+
+
+# Preprint
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <img src="/images/graphmatch.pdf" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <strong>Rongxuan Li</strong> and <strong>Yangyang Xu</strong> (Project Advisor), 
+    <em>Linear Reweighted Regularization Algorithms for the Graph Matching Problem.</em> Submitted.  
+    [<a href="https://arxiv.org/abs/2503.24329" target="_blank">arXiv</a>], 
+    [<a href="https://github.com/rongxuan-li/graph-match" target="_blank">code</a>]
+  </div>
+</div>
+
 
 
 
