@@ -67,7 +67,7 @@ My first research paper is accepted by [Proceedings of the Royal Society A: Math
 # Educations
 - *2025.09 - Now*,     PhD student, University of Southern California.
 - *2021.09 - 2025.07*, BSc in Mathematics, The Chinese University of Hong Kong.
-- *2018.09 - 2021.07*, Beijing RDFZ Chaoyang Public School.
+
   
 
 
