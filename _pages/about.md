@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PhD student at the **Daniel J. Epstein Department of Industrial and Systems Engineering**, **University of Southern California (USC)**. I obtained my BSc in Mathematics at **The Chinese University of Hong Kong (CUHK)**, during which I also studied abroad as an exchange student at the **University of California, Berkeley (UC Berkeley)** and **Rensselaer Polytechnic Institute (RPI)**. I feel fortunate to have been advised by [Prof. Gary Pui Tung Choi](https://www.math.cuhk.edu.hk/~ptchoi/index.html) at CUHK and [Prof. Yangyang Xu](https://xu-yangyang.github.io/index.html) at RPI during my undergraduate studies.
+I am an incoming PhD student at the Daniel J. Epstein Department of Industrial and Systems Engineering, **University of Southern California (USC)**. I obtained my BSc in Mathematics at **The Chinese University of Hong Kong (CUHK)**, during which I also studied abroad as an exchange student at the University of California, Berkeley (UC Berkeley)** and **Rensselaer Polytechnic Institute (RPI). I feel fortunate to have been advised by [Prof. Gary Pui Tung Choi](https://www.math.cuhk.edu.hk/~ptchoi/index.html) at CUHK and [Prof. Yangyang Xu](https://xu-yangyang.github.io/index.html) at RPI during my undergraduate studies.
 
 
 My research interests include continuous optimization and mathematics of materials.
@@ -65,7 +65,9 @@ My first research paper is accepted by [Proceedings of the Royal Society A: Math
 - *2022* Mr. Michael Wong Student Exchange Scholarship, CUHK. 
 
 # Educations
+- *2025.09 - Now*, PhD student, University of Southern California.
 - *2021.09 - 2025.07*, BSc in Mathematics, The Chinese University of Hong Kong.
+- *2018.09 - 2021.07*, Beijing RDFZ Chaoyang Public School.
   
 
 
