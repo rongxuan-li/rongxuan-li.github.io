@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year undergraduate mathematics major at the Chinese University of Hong Kong (CUHK). I previously studied as an exchange student at the University of California, Berkeley (UC Berkeley) and Rensselaer Polytechnic Institute (RPI). I feel blessed to be advised by Prof. [Gary Pui Tung Choi](https://www.math.cuhk.edu.hk/~ptchoi/index.html) at CUHK and Prof. [Yangyang Xu](https://xu-yangyang.github.io/index.html) at RPI.
+I am an incoming PhD student at the **Daniel J. Epstein Department of Industrial and Systems Engineering**, **University of Southern California (USC)**. I obtained my BSc in Mathematics at **The Chinese University of Hong Kong (CUHK)**, during which I also studied abroad as an exchange student at the **University of California, Berkeley (UC Berkeley)** and **Rensselaer Polytechnic Institute (RPI)**. I feel fortunate to have been advised by [Prof. Gary Pui Tung Choi](https://www.math.cuhk.edu.hk/~ptchoi/index.html) at CUHK and [Prof. Yangyang Xu](https://xu-yangyang.github.io/index.html) at RPI during my undergraduate studies.
+
 
 My research interests include continuous optimization and mathematics of materials.
 
@@ -35,7 +36,7 @@ My first research paper is accepted by [Proceedings of the Royal Society A: Math
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <img src="/images/origami.pdf" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
   <div>
-    <strong>Rongxuan Li</strong> and Gary P. T. Choi, <em>Explosive rigidity percolation in origami.</em> To appear, <i>Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences</i>. [<a href="https://arxiv.org/abs/2410.13945">arXiv</a>] [<a href="https://github.com/garyptchoi/origami-explosive-percolation/blob/main/README.md">code</a>]
+    <strong>Rongxuan Li</strong> and Gary P. T. Choi, <em>Explosive rigidity percolation in origami.</em> To appear, <i>Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences</i>. [<a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep.pdf">PDF</a>] [<a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep_SI.pdf">Supplementary Onformation</a>][<a href="https://github.com/garyptchoi/origami-explosive-percolation/blob/main/README.md">code</a>]
   </div>
 </div>
 
@@ -57,10 +58,11 @@ My first research paper is accepted by [Proceedings of the Royal Society A: Math
 
 
 # Honors and Awards
-- *2023* Yasumoto International Exchange Scholarship. 
-- *2023* Mr. Akihiro Nagahara Student Exchange Scholarship.
+- *2025* Annenberg PhD Fellowship, USC. 
+- *2023* Yasumoto International Exchange Scholarship, CUHK. 
+- *2023* Mr. Akihiro Nagahara Student Exchange Scholarship, CUHK.
 - *2022* Head’s List, New Asia College, CUHK. 
-- *2022* Mr. Michael Wong Student Exchange Scholarship. 
+- *2022* Mr. Michael Wong Student Exchange Scholarship, CUHK. 
 
 # Educations
 - *2021.09 - 2025.07*, BSc in Mathematics, The Chinese University of Hong Kong.
