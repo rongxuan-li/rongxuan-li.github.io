@@ -68,8 +68,6 @@ My first research paper is accepted by [Proceedings of the Royal Society A: Math
 - *2025.09 - Now*,     PhD student, University of Southern California.
 - *2021.09 - 2025.07*, BSc in Mathematics, The Chinese University of Hong Kong.
 
-  
-
 
 # Internships
 - *2022.07 - 2022.08*, Data Analyst, Department of Inclusive Finance, Bank of China (Head Office).
