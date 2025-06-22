@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Rongxuan Li"
   avatar           : "images/rongxuan.png"
-  bio              : "Final-year math major undergrad student at the Chinese University of Hong Kong (CUHK)."
-  location         : "Hong Kong"
+  bio              : "PhD student at University of Southern California."
+  location         : "Los Angeles, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=jtmUf-cAAAAJ"
@@ -57,7 +57,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  motto1           : "无誉无訾，一龙一蛇，与时俱化。 -《庄子·山木》"
+  motto2           : "Nullius in verba — Horace, *Epistles* I.1.14"
 
 # Reading Files
 include:
