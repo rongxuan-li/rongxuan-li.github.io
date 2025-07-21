@@ -74,7 +74,7 @@ Thanks to Professor Gary Choi's patient guidance.
 
 ---
 
-# Education
+# Educations
 
 - **2025.09 – Present** – Ph.D. student, University of Southern California  
 - **2021.09 – 2025.07** – B.Sc. in Mathematics, The Chinese University of Hong Kong  
