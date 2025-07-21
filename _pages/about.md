@@ -48,7 +48,7 @@ My first research paper is accepted by [Proceedings of the Royal Society A: Math
   <div>
     <strong>Rongxuan Li</strong> and Yangyang Xu (Project Advisor), 
     <em>Linear Reweighted Regularization Algorithms for the Graph Matching Problem.</em> Submitted to SIAM undergraduate research online. 
-    [<a href="https://arxiv.org/abs/2503.24329" target="_blank">arXiv</a>], 
+    [<a href="https://arxiv.org/abs/2503.24329" target="_blank">arXiv</a>] 
     [<a href="https://github.com/rongxuan-li/graph-match" target="_blank">code</a>]
   </div>
 </div>
