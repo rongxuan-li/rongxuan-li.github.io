@@ -35,7 +35,7 @@ Thanks to Professor Gary Choi's patient guidance.
 
 # Publications
 
-<div style="display: flex; align-items: center; margin-bottom: 1em;">
+<div style="display: flex; align-items: center; margin-bottom: 0em;">
   <img src="/images/origami.png" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
   <div>
     <strong>Rongxuan Li</strong> and Gary P. T. Choi,  
