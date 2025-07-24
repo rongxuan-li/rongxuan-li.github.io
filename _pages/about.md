@@ -27,7 +27,7 @@ My research interests include **continuous optimization** and the **mathematics 
 
 <span style="font-size: 18px; font-weight: bold;">News</span>
 
-My first research paper has been accepted by the [*Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*](https://royalsocietypublishing.org/journal/rspa). Thanks to Professor Gary Choi's patient guidance.
+My first research paper has been accepted by the <a href="https://royalsocietypublishing.org/journal/rspa" style="text-decoration: none;"><em>Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences</em></a>. Thanks to Professor Gary Choi's patient guidance.
 
 ---
 
