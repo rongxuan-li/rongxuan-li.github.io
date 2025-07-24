@@ -38,10 +38,12 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <img src="/images/origami.png" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
   <div>
-    <strong>Rongxuan Li</strong> and Gary P. T. Choi,  
-    <a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep.pdf" style="text-decoration: none;"><em>Explosive Rigidity in Origami, Proceedings of the Royal Society A</em></a>.
+    <div><strong>Rongxuan Li</strong> and Gary P. T. Choi,<div>  
+    <div><a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep.pdf" style="text-decoration: none;"><em>Explosive Rigidity in Origami,</em></a>.<div>
+    <div>Proceedings of the Royal Society A, 481(2316), 20240826, 2025.
     [<a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep.pdf" style="text-decoration: none;"><em>Supplementary Info</em></a>]
     [<a href="https://github.com/garyptchoi/origami-explosive-percolation/blob/main/README.md" style="text-decoration: none;"><em>Code</em></a>]
+    <div>
   </div>
 </div>
 
@@ -52,7 +54,7 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <img src="/images/graphmatch.png" alt="Graph Match" style="width: 120px; margin-right: 20px; border-radius: 8px;">
   <div>
-    <div><strong>Rongxuan Li</strong> and Yangyang Xu (Project Advisor)</div>
+    <div><strong>Rongxuan Li</strong> and Yangyang Xu (Project Advisor),</div>
     <div><em>Linear Reweighted Regularization Algorithms for the Graph Matching Problem.</em></div>
     <div>
       Submitted to <i>SIAM Undergraduate Research Online</i>.  
@@ -66,10 +68,10 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <img src="/images/origami2.png" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
   <div>
-    <strong>Rongxuan Li</strong> and Gary P. T. Choi,  
-    <em>Rigidity control of general origami structures.</em>  
-    Submitted.
+    <div><strong>Rongxuan Li</strong> and Gary P. T. Choi,<div>  
+    <div><em>Rigidity control of general origami structures.</em> Submitted.
     [<a href="https://arxiv.org/abs/2507.16934" style="text-decoration: none;"><em>arXiv</em></a>]
+    <div>
   </div>
 </div>
 
