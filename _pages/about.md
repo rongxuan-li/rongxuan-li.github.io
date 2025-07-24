@@ -19,7 +19,8 @@ redirect_from:
 
 I am an incoming Ph.D. student at the **Daniel J. Epstein Department of Industrial and Systems Engineering**, **University of Southern California (USC)**.  
 
-I obtained my B.Sc. in Mathematics from **The Chinese University of Hong Kong (CUHK)**, during which I also studied abroad as an exchange student at the University of California, Berkeley (UC Berkeley), and Rensselaer Polytechnic Institute (RPI). I feel fortunate to have been advised by [Prof. Gary Choi](https://www.math.cuhk.edu.hk/~ptchoi/index.html) at CUHK and <a href="https://xu-yangyang.github.io/index.html" style="text-decoration: none;"><em>
+I obtained my B.Sc. in Mathematics from **The Chinese University of Hong Kong (CUHK)**, during which I also studied abroad as an exchange student at the University of California, Berkeley (UC Berkeley), and Rensselaer Polytechnic Institute (RPI). I feel fortunate to have been advised by  <a href="https://www.math.cuhk.edu.hk/~ptchoi/index.html" style="text-decoration: none;"><em>
+Prof. Gary Choi</em></a> at CUHK and <a href="https://xu-yangyang.github.io/index.html" style="text-decoration: none;"><em>
 Prof. Yangyang Xu</em></a> at RPI during my undergraduate studies.
 
 My research interests include **continuous optimization** and the **mathematics of materials**.
@@ -38,11 +39,9 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
   <img src="/images/origami.png" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
   <div>
     <strong>Rongxuan Li</strong> and Gary P. T. Choi,  
-    <em>Explosive rigidity percolation in origami.</em>  
-    <i>Proceedings of the Royal Society A</i>.  
-    [<a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep.pdf">PDF</a>]  
-    [<a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep_SI.pdf">Supplementary Info</a>]  
-    [<a href="https://github.com/garyptchoi/origami-explosive-percolation/blob/main/README.md">Code</a>]
+    <a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep.pdf" style="text-decoration: none;"><em>Explosive Rigidity in Origami, Proceedings of the Royal Society A.</em></a>.
+    [<a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep.pdf" style="text-decoration: none;"><em>Supplementary Info</em></a>]
+    [<a href="https://github.com/garyptchoi/origami-explosive-percolation/blob/main/README.md" style="text-decoration: none;><em>Code</em></a>]
   </div>
 </div>
 
