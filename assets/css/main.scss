@@ -108,6 +108,14 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-body {
-  font-family: "Helvetica", "Arial", sans-serif;
+body,
+input,
+textarea,
+button,
+select,
+h1, h2, h3, h4, h5, h6,
+p, a, li, span, strong, em,
+blockquote, code, pre, table,
+figcaption, .page__title, .page__meta {
+  font-family: "Helvetica", "Arial", sans-serif !important;
 }
