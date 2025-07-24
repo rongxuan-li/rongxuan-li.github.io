@@ -117,5 +117,8 @@ h1, h2, h3, h4, h5, h6,
 p, a, li, span, strong, em,
 blockquote, code, pre, table,
 figcaption, .page__title, .page__meta {
- ont-family: Georgia, "Times New Roman", Times, serif !important;
+  font-family: Georgia, "Times New Roman", Times, serif !important;
+  font-size: 18px !important;  
+  line-height: 1.7;            
 }
+
