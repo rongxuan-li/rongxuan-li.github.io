@@ -39,7 +39,7 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
   <img src="/images/origami.png" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
   <div>
     <strong>Rongxuan Li</strong> and Gary P. T. Choi,  
-    <a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep.pdf" style="text-decoration: none;"><em>Explosive Rigidity in Origami, Proceedings of the Royal Society A.</em></a>.
+    <a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep.pdf" style="text-decoration: none;"><em>Explosive Rigidity in Origami, Proceedings of the Royal Society A</em></a>.
     [<a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep.pdf" style="text-decoration: none;"><em>Supplementary Info</em></a>]
     [<a href="https://github.com/garyptchoi/origami-explosive-percolation/blob/main/README.md" style="text-decoration: none;"><em>Code</em></a>]
   </div>
