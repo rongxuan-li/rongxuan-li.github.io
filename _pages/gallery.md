@@ -6,7 +6,7 @@ permalink: /gallery/
 
 # Gallery
 
-Here are some selected pictures from my work and experiences.
+Updating.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="/images/gallery1.jpg" style="width: 30%;" alt="Gallery Image 1">
