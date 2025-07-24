@@ -1,5 +1,6 @@
 ---
-permalink: /
+layout: home
+permalink: /gallery/
 title: "Gallery"
 excerpt: ""
 redirect_from: 
