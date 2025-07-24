@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: navonly
 title: "Gallery"
 permalink: /gallery/
 ---
