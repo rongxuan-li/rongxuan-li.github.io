@@ -247,21 +247,26 @@ figcaption {
   font-family: $caption-font-family;
   font-size: $type-size-6;
 
-  a {
-    color: inherit;
-    text-decoration: none;
-    border-bottom: 1px solid $light-gray;
-    -webkit-transition: $global-transition;
-    transition: $global-transition;
 
-    &:hover {
-      color: #000;
-      border-bottom-color: #000;
-    }
+a {
+  text-decoration: none;
+  color: #003366; // Dark blue
+
+  &:hover,
+  &:active,
+  &:focus {
+    text-decoration: none;
+    color: #001f4d; // Slightly darker on hover/focus
   }
+
+  &:focus {
+    @extend %tab-focus;
+  }
+
+  outline: 0;
 }
 
-
+   
 /* Fix IE9 SVG bug */
 
 svg:not(:root) {
