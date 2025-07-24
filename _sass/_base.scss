@@ -80,6 +80,7 @@ del a {
   color: inherit;
 }
 
+
 /* reduce orphans and widows when printing */
 
 p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
@@ -302,20 +303,25 @@ nav {
   }
 
   a {
+  text-decoration: none;
+  color: #003366; // Dark blue
+
+  &:hover,
+  &:active,
+  &:focus {
     text-decoration: none;
+    color: #001f4d; // Slightly darker on hover/focus
   }
 
-  /* override white-space for nested lists */
-  ul li,
-  ol li {
-    margin-bottom: 0;
+  &:focus {
+    @extend %tab-focus;
   }
 
-  li ul,
-  li ol {
-    margin-top: 0;
-  }
+  outline: 0;
 }
+
+
+
 
 /*
    Global animation transition
