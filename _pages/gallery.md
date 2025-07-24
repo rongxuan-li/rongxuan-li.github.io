@@ -1,7 +1,9 @@
 ---
-layout: page
-title: "Gallery"
-permalink: /gallery/
+layout: redirect
+redirect_to: /gallery/
+permalink: /go-to-gallery/
+---
+
 ---
 
 # Gallery
