@@ -41,11 +41,15 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
     <div><strong>Rongxuan Li</strong> and Gary P. T. Choi,</div>
     <div>
       <a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep.pdf" style="color: #003366; text-decoration: none;">
-        <em>Explosive Rigidity in Origami</em>
-      </a>.
+        <em>Explosive Rigidity in Origami</em></a>.
     </div>
     <div>
       <em>Proceedings of the Royal Society A</em>, 481(2316), 20240826, 2025.
+      [
+      <a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep.pdf" style="color: #003366; text-decoration: none;">
+        PDF
+      </a>
+      ]
       [
       <a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep_SI.pdf" style="color: #003366; text-decoration: none;">
         Supplementary Info
