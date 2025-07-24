@@ -62,6 +62,17 @@ Thanks to Professor Gary Choi's patient guidance.
   </div>
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <img src="/images/origami.png" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
+  <div>
+    <strong>Rongxuan Li</strong> and Gary P. T. Choi,  
+    <em>Rigidity control of general origami structures.</em>  
+    Submitted.
+    [<a href="https://arxiv.org/abs/2507.16934" target="_blank">arXiv</a>]  
+  </div>
+</div>
+
+
 ---
 
 # Honors and Awards
