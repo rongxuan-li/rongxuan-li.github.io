@@ -1,5 +1,5 @@
 ---
-permalink: /gallery/
+permalink: /
 title: "Gallery"
 excerpt: ""
 redirect_from: 
