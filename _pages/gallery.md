@@ -4,7 +4,7 @@ title: "Gallery"
 permalink: /gallery/
 ---
 
-# Gallery
+# Rongxuan's Gallery
 
 <p>Updating.</p>
 
