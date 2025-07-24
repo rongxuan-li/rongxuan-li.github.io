@@ -25,13 +25,13 @@ My research interests include **continuous optimization** and the **mathematics 
 
 ---
 
-<span style="font-size: 18px; font-weight: bold;"># News</span>
+<span style="font-size: 18px; font-weight: bold;">News</span>
 
 My first research paper has been accepted by the [*Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*](https://royalsocietypublishing.org/journal/rspa). Thanks to Professor Gary Choi's patient guidance.
 
 ---
 
-# Publications
+<span style="font-size: 18px; font-weight: bold;">Publications</span>
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <img src="/images/origami.png" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
@@ -47,7 +47,7 @@ My first research paper has been accepted by the [*Proceedings of the Royal Soci
 
 ---
 
-# Preprint
+<span style="font-size: 18px; font-weight: bold;">Preprints</span>
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <img src="/images/graphmatch.png" alt="Graph Match" style="width: 120px; margin-right: 20px; border-radius: 8px;">
@@ -73,7 +73,7 @@ My first research paper has been accepted by the [*Proceedings of the Royal Soci
 
 ---
 
-# Honors and Awards
+<span style="font-size: 18px; font-weight: bold;">Honors and Awards</span>
 
 - **2025** – Annenberg Ph.D. Fellowship, USC  
 - **2023** – Yasumoto International Exchange Scholarship, CUHK  
@@ -83,14 +83,14 @@ My first research paper has been accepted by the [*Proceedings of the Royal Soci
 
 ---
 
-# Educations
+<span style="font-size: 18px; font-weight: bold;">Educations</span>
 
 - **2025.09 – Present** – Ph.D. student, University of Southern California  
 - **2021.09 – 2025.07** – B.Sc. in Mathematics, The Chinese University of Hong Kong  
 
 ---
 
-# Internships
+<span style="font-size: 18px; font-weight: bold;">Internships</span>
 
 - **2022.07 – 2022.08** – Data Analyst, Department of Inclusive Finance, Bank of China (Head Office)
 
