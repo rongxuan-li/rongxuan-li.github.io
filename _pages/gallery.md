@@ -11,8 +11,19 @@ redirect_from:
 
 <p>Updating...</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/images/RPI1.png" style="width: 30%;" alt="Gallery Image 1">
-  <img src="/images/RPI2.png" style="width: 30%;" alt="Gallery Image 2">
-  <img src="/images/RPI3.png" style="width: 30%;" alt="Gallery Image 2">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="text-align: center;">
+    <img src="/images/RPI1.png" alt="Gallery Image 1" style="height: 200px; object-fit: cover; border-radius: 6px;">
+    <div style="margin-top: 8px; font-size: 14px;">RPI Campus </div>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="/images/RPI3.png" alt="Gallery Image 2" style="height: 200px; object-fit: cover; border-radius: 6px;">
+    <div style="margin-top: 8px; font-size: 14px;">RPI Alumnus Hong Kong Chapter</div>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/images/RPI2.png" alt="Gallery Image 3" style="height: 200px; object-fit: cover; border-radius: 6px;">
+    <div style="margin-top: 8px; font-size: 14px;">RPI vs Dartmouth at Houston Field House</div>
+  </div>
 </div>
