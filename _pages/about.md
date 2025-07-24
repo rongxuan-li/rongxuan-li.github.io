@@ -52,13 +52,16 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <img src="/images/graphmatch.png" alt="Graph Match" style="width: 120px; margin-right: 20px; border-radius: 8px;">
   <div>
-    <strong>Rongxuan Li</strong> and Yangyang Xu (Project Advisor),  
-    <em>Linear Reweighted Regularization Algorithms for the Graph Matching Problem.</em>  
-    Submitted to <i>SIAM Undergraduate Research Online</i>.  
-    [<a href="https://arxiv.org/abs/2503.24329" style="text-decoration: none;"><em>arXiv</em></a>]
-    [<a href="https://github.com/rongxuan-li/graph-match" style="text-decoration: none;"><em>Code</em></a>]
+    <div><strong>Rongxuan Li</strong> and Yangyang Xu (Project Advisor)</div>
+    <div><em>Linear Reweighted Regularization Algorithms for the Graph Matching Problem.</em></div>
+    <div>
+      Submitted to <i>SIAM Undergraduate Research Online</i>.  
+      [<a href="https://arxiv.org/abs/2503.24329" style="text-decoration: none;"><em>arXiv</em></a>]  
+      [<a href="https://github.com/rongxuan-li/graph-match" style="text-decoration: none;"><em>Code</em></a>]
+    </div>
   </div>
 </div>
+
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <img src="/images/origami2.png" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
