@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: none
 title: "Gallery"
 permalink: /gallery/
 ---
 
-# 📷 Gallery
+# Gallery
 
 <p>Updating.</p>
 
