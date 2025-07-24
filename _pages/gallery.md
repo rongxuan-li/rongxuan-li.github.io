@@ -12,7 +12,7 @@ redirect_from:
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center;">
   <div style="text-align: center;">
     <img src="/images/RPI2.png" alt="Gallery Image 1" style="height: 200px; object-fit: cover; border-radius: 2px;">
-    <div style="margin-top: 8px; font-size: 18px;">RPI Campus</div>
+    <div style="margin-top: 8px; font-size: 18px;">Why not change the world?</div>
   </div>
 
   <div style="text-align: center;">
