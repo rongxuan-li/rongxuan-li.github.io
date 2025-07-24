@@ -1,0 +1,24 @@
+---
+layout: null
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <main id="main" role="main" style="padding: 20px;">
+      {{ content }}
+    </main>
+
+    {% include scripts.html %}
+
+  </body>
+</html>
