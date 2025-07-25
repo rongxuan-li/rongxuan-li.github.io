@@ -25,3 +25,20 @@ redirect_from:
     <div style="margin-top: 8px; font-size: 18px;">RPI vs Dartmouth at Houston Field House</div>
   </div>
 </div>
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center;">
+  <div style="text-align: center;">
+    <img src="/images/pku.png" alt="Gallery Image 1" style="height: 200px; object-fit: cover; border-radius: 2px;">
+    <div style="margin-top: 8px; font-size: 18px;">BICMR at Peking University</div>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/images/cuhk.png" alt="Gallery Image 2" style="height: 200px; object-fit: cover; border-radius: 2px;">
+    <div style="margin-top: 8px; font-size: 18px;">The Chinese University of Hong Kong</div>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/images/stonybrook.png" alt="Gallery Image 3" style="height: 200px; object-fit: cover; border-radius: 2px;">
+    <div style="margin-top: 8px; font-size: 18px;">Simons Center at Stony Brook</div>
+  </div>
+</div>
