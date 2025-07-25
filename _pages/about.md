@@ -120,7 +120,7 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
 
 ---
 
-<h1 id="Educations"><span style="font-size: 18px; font-weight: bold;">Educations</span></h1>
+<h1 id="Education"><span style="font-size: 18px; font-weight: bold;">Education</span></h1>
 
 - **2025.09 – Present** – Ph.D. student, University of Southern California  
 - **2021.09 – 2025.07** – B.Sc. in Mathematics, The Chinese University of Hong Kong  
