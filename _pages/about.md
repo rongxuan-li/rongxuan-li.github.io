@@ -27,14 +27,14 @@ My research interests include **continuous optimization** and the **mathematics 
 
 ---
 
-<h1 id="News"><span style="font-size: 18px; font-weight: bold;">News</span></h1>
+<h1 id="news"><span style="font-size: 18px; font-weight: bold;">News</span></h1>
 
 
 My first research paper has been accepted by the <a href="https://royalsocietypublishing.org/journal/rspa" style="text-decoration: none;"><em>Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences</em></a>. Thanks to Professor Gary Choi's patient guidance.
 
 ---
 
-<span style="font-size: 18px; font-weight: bold;">Publications</span>
+<h1 id="publications"><span style="font-size: 18px; font-weight: bold;">Publications</span></h1>
 <!-- Publication Entry -->
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <img src="/images/origami.png" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
@@ -110,7 +110,7 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
 ---
 
 
-<h1 id="Honors and Awards"><span style="font-size: 18px; font-weight: bold;">Honors and Awards</span></h1>
+<h1 id="honors-and-awards"><span style="font-size: 18px; font-weight: bold;">Honors and Award</span></h1>
 
 - **2025** – Annenberg Ph.D. Fellowship, USC  
 - **2023** – Yasumoto International Exchange Scholarship, CUHK  
@@ -120,14 +120,14 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
 
 ---
 
-<h1 id="Education"><span style="font-size: 18px; font-weight: bold;">Education</span></h1>
+<h1 id="education"><span style="font-size: 18px; font-weight: bold;">Education</span></h1>
 
 - **2025.09 – Present** – Ph.D. student, University of Southern California  
 - **2021.09 – 2025.07** – B.Sc. in Mathematics, The Chinese University of Hong Kong  
 
 ---
 
-<h1 id="Internships"><span style="font-size: 18px; font-weight: bold;">Internships</span></h1>
+<h1 id="internships"><span style="font-size: 18px; font-weight: bold;">Internships</span></h1>
 
 - **2022.07 – 2022.08** – Data Analyst, Department of Inclusive Finance, Bank of China (Head Office)
 
