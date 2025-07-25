@@ -28,7 +28,7 @@ redirect_from:
 </div>
 
 <!-- Second Row with Top Margin -->
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center; margin-top: 20px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center; margin-top: 40px;">
   <div style="text-align: center;">
     <img src="/images/pku1.png" alt="Gallery Image 1" style="height: 200px; object-fit: cover; border-radius: 2px;">
     <div style="margin-top: 8px; font-size: 18px;">BICMR at Peking University</div>
