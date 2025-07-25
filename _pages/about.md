@@ -27,7 +27,8 @@ My research interests include **continuous optimization** and the **mathematics 
 
 ---
 
-<span style="font-size: 18px; font-weight: bold;">News</span>
+<h1 id="News"><span style="font-size: 18px; font-weight: bold;">News</span></h1>
+
 
 My first research paper has been accepted by the <a href="https://royalsocietypublishing.org/journal/rspa" style="text-decoration: none;"><em>Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences</em></a>. Thanks to Professor Gary Choi's patient guidance.
 
@@ -66,7 +67,7 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
 
 <!-- Preprints Section -->
 <hr>
-<span style="font-size: 18px; font-weight: bold;">Preprints</span>
+<h1 id="Preprints"><span style="font-size: 18px; font-weight: bold;">Preprints</span></h1>
 
 <!-- Preprint 1 -->
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
@@ -108,7 +109,8 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
 
 ---
 
-<span style="font-size: 18px; font-weight: bold;">Honors and Awards</span>
+
+<h1 id="Honors and Awards"><span style="font-size: 18px; font-weight: bold;">Honors and Awards</span></h1>
 
 - **2025** – Annenberg Ph.D. Fellowship, USC  
 - **2023** – Yasumoto International Exchange Scholarship, CUHK  
@@ -118,14 +120,14 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
 
 ---
 
-<span style="font-size: 18px; font-weight: bold;">Educations</span>
+<h1 id="Educations"><span style="font-size: 18px; font-weight: bold;">Educations</span></h1>
 
 - **2025.09 – Present** – Ph.D. student, University of Southern California  
 - **2021.09 – 2025.07** – B.Sc. in Mathematics, The Chinese University of Hong Kong  
 
 ---
 
-<span style="font-size: 18px; font-weight: bold;">Internships</span>
+<h1 id="Internships"><span style="font-size: 18px; font-weight: bold;">Internships</span></h1>
 
 - **2022.07 – 2022.08** – Data Analyst, Department of Inclusive Finance, Bank of China (Head Office)
 
