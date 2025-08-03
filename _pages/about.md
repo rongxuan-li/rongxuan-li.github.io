@@ -134,8 +134,7 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
 
 <h1 id="internships"><span style="font-size: 18px; font-weight: bold;">Internships</span></h1>
 
-<div>
-  <strong>2022.07 – 2022.08</strong> — <em>Data Analyst Intern</em>, Department of Inclusive Finance, Bank of China<br>
-  <span style="font-size: 90%;">1 Fuxingmen Nei Dajie, Beijing, China</span>
-</div>
+- **2022.07 – 2022.08** — *Data Analyst Intern*, Department of Inclusive Finance, Bank of China  
+<span style="font-size: 90%;">1 Fuxingmen Nei Dajie, Beijing, China</span>
+
 
