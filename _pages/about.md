@@ -134,5 +134,7 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
 
 <h1 id="internships"><span style="font-size: 18px; font-weight: bold;">Internships</span></h1>
 
-- **2022.07 – 2022.08** – Data Analyst, Department of Inclusive Finance, Bank of China (Head Office)
+- **2022.07 – 2022.08** – Data Analyst, Department of Inclusive Finance, Bank of China
+  Address: 1 FUXINGMEN NEI DAJIE, BEIJING, CHINA
+   
 
