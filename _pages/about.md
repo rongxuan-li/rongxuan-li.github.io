@@ -122,8 +122,6 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
   </div>
 </div>
 
-<hr>
-<h1 id="honors-and-awards"><span style="font-size: 18px; font-weight: bold;">Honors and Awards</span></h1>
 
 
 ---
