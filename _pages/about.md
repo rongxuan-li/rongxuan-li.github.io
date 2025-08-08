@@ -46,6 +46,8 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
     </div>
     <div>
       <em>Proceedings of the Royal Society A</em>, 481(2316), 20240826, 2025.
+    <div>
+    <div>
       [
       <a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep.pdf" style="color: #003366; text-decoration: none;">
         PDF
@@ -77,6 +79,8 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
     <div><em>Linear Reweighted Regularization Algorithms for the Graph Matching Problem.</em></div>
     <div>
       Submitted to <em>SIAM Undergraduate Research Online</em>.
+    <div>
+    <div>
       [
       <a href="https://arxiv.org/abs/2503.24329" style="color: #003366; text-decoration: none;">
         arXiv
@@ -98,6 +102,8 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
     <div><strong>Rongxuan Li</strong> and Gary P. T. Choi,</div>
     <div>
       <em>Rigidity Control of General Origami Structures.</em> Submitted.
+    <div>
+    <div>
       [
       <a href="https://arxiv.org/abs/2507.16934" style="color: #003366; text-decoration: none;">
         arXiv
