@@ -35,6 +35,7 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
 ---
 
 <h1 id="publications"><span style="font-size: 18px; font-weight: bold;">Publications</span></h1>
+
 <!-- Publication Entry -->
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <img src="/images/origami.png" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
@@ -42,11 +43,12 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
     <div><strong>Rongxuan Li</strong> and Gary P. T. Choi,</div>
     <div>
       <a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep.pdf" style="color: #003366; text-decoration: none;">
-        <em>Explosive Rigidity in Origami</em></a>.
+        <em>Explosive Rigidity in Origami</em>
+      </a>.
     </div>
     <div>
       <em>Proceedings of the Royal Society A</em>, 481(2316), 20240826, 2025.
-    <div>
+    </div>
     <div>
       [
       <a href="https://www.math.cuhk.edu.hk/~ptchoi/files/2025_PRSA_origamiep.pdf" style="color: #003366; text-decoration: none;">
@@ -76,10 +78,12 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
   <img src="/images/graphmatch.png" alt="Graph Match" style="width: 120px; margin-right: 20px; border-radius: 8px;">
   <div>
     <div><strong>Rongxuan Li</strong> and Yangyang Xu (Project Advisor),</div>
-    <div><em>Linear Reweighted Regularization Algorithms for the Graph Matching Problem.</em></div>
+    <div>
+      <em>Linear Reweighted Regularization Algorithms for the Graph Matching Problem.</em>
+    </div>
     <div>
       Submitted to <em>SIAM Undergraduate Research Online</em>.
-    <div>
+    </div>
     <div>
       [
       <a href="https://arxiv.org/abs/2503.24329" style="color: #003366; text-decoration: none;">
@@ -102,7 +106,7 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
     <div><strong>Rongxuan Li</strong> and Gary P. T. Choi,</div>
     <div>
       <em>Rigidity Control of General Origami Structures.</em> Submitted.
-    <div>
+    </div>
     <div>
       [
       <a href="https://arxiv.org/abs/2507.16934" style="color: #003366; text-decoration: none;">
@@ -110,13 +114,17 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
       </a>
       ]
       [
-      <a href="https://github.com/garyptchoi/origami-control"  style="color: #003366; text-decoration: none;">
+      <a href="https://github.com/garyptchoi/origami-control" style="color: #003366; text-decoration: none;">
         Code
       </a>
       ]
     </div>
   </div>
 </div>
+
+<hr>
+<h1 id="honors-and-awards"><span style="font-size: 18px; font-weight: bold;">Honors and Awards</span></h1>
+
 
 ---
 
