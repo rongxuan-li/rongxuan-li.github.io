@@ -69,11 +69,10 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
   </div>
 </div>
 
-<!-- Preprints Section -->
 <hr>
 <h1 id="Preprints"><span style="font-size: 18px; font-weight: bold;">Preprints</span></h1>
 
-<!-- Preprint 1 -->
+<!-- Paper 2 -->
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <img src="/images/graphmatch.png" alt="Graph Match" style="width: 120px; margin-right: 20px; border-radius: 8px;">
   <div>
@@ -82,7 +81,7 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
       <em>Linear Reweighted Regularization Algorithms for the Graph Matching Problem.</em>
     </div>
     <div>
-      Submitted to <em>SIAM Undergraduate Research Online</em>.
+      To Appear <em>SIAM Undergraduate Research Online</em>.
     </div>
     <div>
       [
@@ -99,6 +98,8 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
   </div>
 </div>
 
+
+<!-- Preprints Section -->
 <!-- Preprint 2 -->
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <img src="/images/origami2.png" alt="Origami Simulation" style="width: 120px; margin-right: 20px; border-radius: 8px;">
