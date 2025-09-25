@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Ph.D. student in the Daniel J. Epstein Department of Industrial and Systems Engineering at **University of Southern California (USC)**.  
+I am a first year Ph.D. student in the Daniel J. Epstein Department of Industrial and Systems Engineering at **University of Southern California (USC)**. 
 
 I obtained my B.Sc. in Mathematics from The Chinese University of Hong Kong (CUHK), during which I also studied abroad as an exchange student at the University of California, Berkeley (UC Berkeley), and Rensselaer Polytechnic Institute (RPI). I feel fortunate to have been advised by  <a href="https://www.math.cuhk.edu.hk/~ptchoi/index.html" style="text-decoration: none;">
 Prof. Gary Choi</a> at CUHK and <a href="https://xu-yangyang.github.io/index.html" style="text-decoration: none;">
