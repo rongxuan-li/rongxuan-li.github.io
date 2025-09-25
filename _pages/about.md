@@ -130,11 +130,6 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
 <h1 id="honors-and-awards"><span style="font-size: 18px; font-weight: bold;">Honors and Award</span></h1>
 
 - **2025** – Annenberg Ph.D. Fellowship, USC  
-- **2023** – Yasumoto International Exchange Scholarship, CUHK  
-- **2023** – Mr. Akihiro Nagahara Student Exchange Scholarship, CUHK  
-- **2022** – Head’s List, New Asia College, CUHK  
-- **2022** – Mr. Michael Wong Student Exchange Scholarship, CUHK  
-
 ---
 
 <h1 id="education"><span style="font-size: 18px; font-weight: bold;">Education</span></h1>
