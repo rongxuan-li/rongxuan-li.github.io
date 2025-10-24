@@ -81,12 +81,12 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
       <em>Linear Reweighted Regularization Algorithms for the Graph Matching Problem.</em>
     </div>
     <div>
-      To appear <em>SIAM Undergraduate Research Online</em>.
+      <em>SIAM Undergraduate Research Online</em>, Volume 18.
     </div>
     <div>
       [
       <a href="https://www.siam.org/media/wkuniuyv/s174397r.pdf" style="color: #003366; text-decoration: none;">
-        arXiv
+        PDF
       </a>
       ]
       [
