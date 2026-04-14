@@ -124,7 +124,7 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
     </div>
     <div>
       <em> Communications Physics, to appear.
-    </div>
+    <div>
   </div>
 </div>
 
