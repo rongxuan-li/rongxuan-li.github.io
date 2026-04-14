@@ -108,7 +108,7 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
   <div>
     <div><strong>Rongxuan Li</strong> and Gary P. T. Choi,</div>
     <div>
-      <em>Rigidity Control of General Origami Structures.</em> Submitted.
+      <em>Rigidity Control of General Origami Structures.</em> Communications Physics, to appear.
     </div>
     <div>
       [
@@ -122,9 +122,6 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
       </a>
       ]
     </div>
-    <div>
-      <em> Communications Physics, to appear.
-    <div>
   </div>
 </div>
 
