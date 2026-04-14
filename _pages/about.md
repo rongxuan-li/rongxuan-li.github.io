@@ -28,9 +28,9 @@ My research interests include **continuous optimization** and the **mathematics 
 ---
 
 <h1 id="news"><span style="font-size: 18px; font-weight: bold;">News</span></h1>
+Our work on Rigidity Control of General Origami Structures has been accepted by the <a href="https://www.nature.com/commsphys/" style="text-decoration: none;"><em> Communications Physics </em></a>. Thanks to Professor Gary Choi's patient guidance.
 
-
-Our paper has been accepted by the <a href="https://www.siam.org/publications/siam-journals/siam-undergraduate-research-online-siuro/" style="text-decoration: none;"><em>SIAM Undergraduate Research Online (SIURO)</em></a>. Thanks to Professor Yangyang Xu's patient guidance.
+Our work on Linear Reweighted Regularization Algorithms for the Graph Matching Problem has been accepted by the <a href="https://www.siam.org/publications/siam-journals/siam-undergraduate-research-online-siuro/" style="text-decoration: none;"><em>SIAM Undergraduate Research Online (SIURO)</em></a>. Thanks to Professor Yangyang Xu's patient guidance.
 
 My first research paper has been accepted by the <a href="https://royalsocietypublishing.org/journal/rspa" style="text-decoration: none;"><em>Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences</em></a>. Thanks to Professor Gary Choi's patient guidance.
 
@@ -121,6 +121,9 @@ My first research paper has been accepted by the <a href="https://royalsocietypu
         Code
       </a>
       ]
+    </div>
+    <div>
+      <em> Communications Physics, to appear.
     </div>
   </div>
 </div>
